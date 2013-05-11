@@ -1,0 +1,670 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"trivial"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "stylesheets/layout.css",
+			"settings":
+			{
+				"buffer_size": 6993,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Scott/Desktop/sponsors.txt",
+			"settings":
+			{
+				"buffer_size": 8562,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"par",
+				"Package Control: Remove Package"
+			],
+			[
+				"pai",
+				"Package Control: Install Package"
+			],
+			[
+				"pare",
+				"Package Control: Remove Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"readm",
+				"ReadmePlease"
+			],
+			[
+				"readon",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"read m",
+				"ReadmePlease"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"parem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacre",
+				"Package Control: Remove Package"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"mpb",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ai",
+				"Package Control: Install Package"
+			],
+			[
+				"paci",
+				"Package Control: Install Package"
+			],
+			[
+				"inspack",
+				"Package Control: Install Package"
+			],
+			[
+				"mapb",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"maprb",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"maprebr",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markdochea",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"markp",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: tiddler"
+			],
+			[
+				"conin",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ftpc",
+				"FTPSync: Check current file"
+			],
+			[
+				"ftpu",
+				"FTPSync: Upload current file"
+			],
+			[
+				"plu",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"togs",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggsi",
+				"View: Toggle Side Bar"
+			],
+			[
+				"jque",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"ft",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"t",
+				"Tidy HTML"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"i",
+				"Indent.txt: Parse"
+			],
+			[
+				"tidy",
+				"Tidy CSS"
+			],
+			[
+				"tid",
+				"Tidy CSS"
+			],
+			[
+				"en",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"Snippet: sli",
+				"Snippet: slideToggle"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/assets/GeneratedScheme_1.htm",
+		"/C/wamp/www/SMRF/stylesheets/skeleton.css",
+		"/C/wamp/www/SMRF/index_swatches.htm",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/SMRF/index.htm",
+		"/C/wamp/www/SMRF/stylesheets/layout-expose.css",
+		"/C/wamp/www/SMRF/fonts/smgoudy/stylesheet.css",
+		"/C/wamp/www/getoffyourself/index.htm",
+		"/C/wamp/www/SMRF/stylesheets/color_swatches.htm",
+		"/C/wamp/www/SMRF_dev/stylesheets/layout.css",
+		"/C/wamp/www/SMRF_dev/stylesheets/color_swatches.htm",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Hayaku - tools for writing CSS faster/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Emmet/README - Copy.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Hex to HSL Color Converter/readme.md",
+		"/C/wamp/www/SMRF_dev/SMRF_legacy.sublime-workspace",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/TODO.todo",
+		"/C/wamp/www/getoffyourself/important.htm",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/CSS.sublime-settings",
+		"/C/wamp/www/getoffyourself/stylesheets/layout.css",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Theme - Soda/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/ReadmePlease/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Alignment/readme.creole",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Creole/README.creole",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Scott/Desktop/ST2 notes2.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/wamp/www/getoffyourself/ftpsync.settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Markdown/Symbol List - Heading.tmPreferences",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/sample.md",
+		"/C/Users/Scott/Desktop/ST2 notes.txt",
+		"/C/wamp/www/getoffyourself/fonts/komika/Apostrophic Labs License.txt",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/TiddlyWiki/table.sublime-snippet",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Emmet/README.md",
+		"/C/wamp/www/getoffyourself/images/dog-enter-5.png",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/FTPSync.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/FTPSync/FTPSync.sublime-settings",
+		"/C/wamp/www/getoffyourself/images/dog-drip-1.png",
+		"/F/wiki/computer_wiki.htm",
+		"/C/Users/Scott/Documents/Mundane/Misc/Computer/CodeWiki/ST2Wiki.wiki",
+		"/C/Users/Scott/Documents/Mundane/Misc/Computer/CodeWiki/code.wiki",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Wiki/readme.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Browser Refresh/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/wamp/www/getoffyourself/stylesheets/indent_demo.htm",
+		"/C/wamp/www/getoffyourself/what_you_think.htm",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/FTPSync/README.md",
+		"/C/wamp/www/getoffyourself/about.htm",
+		"/C/wamp/www/getoffyourself/others_unhelpful.htm",
+		"/C/wamp/www/getoffyourself/images/dog-touch-icon.png",
+		"/C/wamp/www/getoffyourself/images/favicon.ico",
+		"/C/wamp/www/getoffyourself/Zlayout.js",
+		"/C/wamp/www/getoffyourself/scripts/layout.js",
+		"/C/wamp/www/getoffyourself/GetOffYourself.sublime-project",
+		"/C/wamp/www/getoffyourself/ftp-sync.settings",
+		"/C/wamp/www/getoffyourself/layout.js",
+		"/C/Users/Scott/Downloads/BroadwayBank CSV processing",
+		"/C/Users/Scott/Downloads/AccountHistory.csv",
+		"/C/Users/Scott/Downloads/Replace histpory",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/CSV/README.md",
+		"/F/p_app/Documents/USB_Mundane/ComputerGeek/www/getoffyourself/index.htm",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/CSSTidy/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/CSSTidy.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/CSSTidy/CSSTidy.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/HtmlTidy/README.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"iono_",
+			"bluey medium",
+			"box greeny medium",
+			" .",
+			"orangey",
+			".orangey ",
+			".blue",
+			"greeny",
+			"<div class=\"box ",
+			"v id=\"\" ",
+			"orangey",
+			"<div id=",
+			"#",
+			"37%",
+			"hsl(220, 82%, 37%)",
+			"com/\"><font style",
+			"light",
+			"medium",
+			"dark",
+			"medium",
+			"light",
+			"medium",
+			"pale",
+			"medium",
+			"light",
+			"pale",
+			"dark",
+			"light",
+			"dark",
+			"columns columns",
+			"5",
+			"light",
+			"hsl(20",
+			"hsl(216",
+			"pale",
+			"light",
+			"pale",
+			"opacity",
+			"        \n",
+			"5",
+			"250",
+			"18",
+			"1",
+			"; 3px;",
+			"greeny",
+			"h6",
+			"Rights",
+			"third",
+			"        <div class=\"four columns alpha\">\n            <div class=\"box\" style=\"background-color: hsl(44, 76%, 64%);\">\n                <h6>B2</h6>\n            </div>\n        </div>\n\n",
+			"\"four columns\" style=\"background-color: hsl(33, 72%, 60%);",
+			"box",
+			"100",
+			"hsl",
+			"hsl(200",
+			"63",
+			"div class=\"two columns omega\">",
+			"<div class=\"twelve columns alpha collapsible\">",
+			"<div class=\"four columns omega\">",
+			"h4",
+			"columns",
+			"h4",
+			"h3",
+			"h4",
+			"h3",
+			"goudystm",
+			"GoudyStM",
+			"goudystm",
+			"GoudyStM",
+			"goudystm",
+			"GoudyStM",
+			"goudystm",
+			"GoudyStM",
+			"goudystm",
+			"sl(100",
+			": hsl(100",
+			"sl(158",
+			"sl(180",
+			"hsl(160",
+			"hsl(200",
+			"signika",
+			"GoudyStM",
+			"vollkorm",
+			"-ttf",
+			"Vollkorm/Vol",
+			"signika",
+			"Signika",
+			"signika",
+			"Signika",
+			"signika",
+			"Signika",
+			"signika",
+			"Signika",
+			"signika",
+			"Signika",
+			"signika",
+			"Signika",
+			"signika",
+			"Signika",
+			"signika",
+			"5",
+			"box light",
+			"three columns",
+			"thirteen",
+			"five columns omega",
+			"h4",
+			"opaci",
+			"box medium",
+			"10",
+			"12",
+			":after",
+			"light four ",
+			"class",
+			"bluey",
+			"blouey",
+			"greeny",
+			"\">",
+			"==================================================",
+			"height:80px; ",
+			"height:20px; ",
+			"height:40px; ",
+			"height:60px; ",
+			"height",
+			"padding-left:",
+			"height:4px; ",
+			"</div>",
+			"ng-right",
+			" ac",
+			"ackground"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" - `\\2`    \\1",
+			"Ctrl",
+			"Ctrl+",
+			"`    ",
+			"- `\\2`: \\1",
+			"",
+			"- `\\2`:   \\1",
+			"- \\2    \\1",
+			"",
+			" `\\1` ",
+			"- \\1",
+			",\\1,\"\"",
+			",\\1,\"CREDIT\"",
+			",\"\",\\1,",
+			",",
+			",\\1,\"CREDIT\"",
+			",\\1,\"\"",
+			",,\\1,\"CREDIT\"",
+			",",
+			"SMTX",
+			"",
+			"PAY PAL",
+			"PAY PAL ",
+			"GEN LIFE",
+			"",
+			"SATX",
+			"AUTX",
+			"NBTX",
+			"SMTX",
+			"",
+			"\\1\\3\\2\"",
+			"\\1,\\3,\\2\"",
+			"\\1\"\\3\"\\2\"",
+			"\\1\\3\"\\2\"",
+			"\\1,\\3,\"\\2\"",
+			"",
+			"\"",
+			"",
+			"\\1",
+			"",
+			"\\1",
+			"",
+			"dog-touch-icon"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "stylesheets/layout.css",
+					"settings":
+					{
+						"buffer_size": 6993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2117,
+								2117
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 770.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Scott/Desktop/sponsors.txt",
+					"settings":
+					{
+						"buffer_size": 8562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								521,
+								521
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"lay",
+				"scripts/layout.js"
+			],
+			[
+				"layoucs",
+				"stylesheets/layout.css"
+			],
+			[
+				"st2",
+				"/C/Users/Scott/Desktop/ST2 notes.md"
+			],
+			[
+				"in",
+				"index.htm"
+			],
+			[
+				"la",
+				"stylesheets/layout.css"
+			],
+			[
+				"stylin",
+				"stylesheets/indent_demo.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true
+}

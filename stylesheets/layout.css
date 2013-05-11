@@ -1,0 +1,296 @@
+/* #Site Styles
+=========================== */
+
+    body {
+        background-color: hsl(216, 70%, 93%);
+
+/*        background: url("../images/rio_vista_chute-38.png") no-repeat center top;
+        width: 100%;
+        min-width: 800px;
+        height:     auto;*/
+    }
+
+    .container {
+        margin-top: 6px;
+        /*background: transparent;*/
+        /*background-color: hsl(200, 70%, 85%)*/
+        z-index: 1;
+    }
+
+
+    .box {
+
+        margin-bottom: 6px;
+        -moz-border-radius: 12px;
+        -webkit-border-radius: 12px;
+        border-radius: 12px;
+
+        padding: 4px 2px 3px 8px;
+
+        /*opacity: 0.95;*/
+
+        overflow: hidden;
+        /*margin-left: 6px;*/
+        /*margin-right: 6px;*/
+    }
+
+    .box-image {
+        margin: 0px -5px 0px -5px;
+        /*padding: 0px;*/
+        overflow: hidden;
+    }
+
+
+    .box-image img {
+        /*width: 960px;*/
+        width: 100%;
+        /*max-width: 960px;*/
+        min-width:  840px;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        border-radius:7px;
+        -moz-border-radius:7px;
+        -webkit-border-radius:7px;
+        opacity: 0.9;
+        z-index: 2;
+        overflow: hidden;
+
+    }
+
+
+    h3, h4, h5, h6 {
+        font-family: 'Signika';
+        margin: 0px;
+    }
+
+    h2  {
+        font-family: 'Prociono';
+        /*font-weight: bold;*/
+        color:white;
+        text-shadow: 2px 2px 0px hsl(250, 82%, 12%);
+
+        letter-spacing: 2px;
+        margin-top: 8px;
+        margin-bottom: 0;
+    }
+
+    #masthead h6 {
+
+        font-family: 'Prociono';
+        /*font-weight: bold;*/
+        color:white;
+        /*text-shadow: 2px 2px 0px hsl(250, 82%, 12%), 3px 3px 0px white;*/
+/*        text-shadow: 2px 2px 0px hsl(250, 82%, 12%);
+
+        letter-spacing: 1px;*/
+        margin-top: 8px;
+        margin-bottom: 0px;
+    }
+
+    .collapsible {
+        height: 2px;
+    }
+/*    @media only screen and (min-width: 768px) and (max-width: 959px) {
+
+        .collapsible {
+            height: 10px;
+        }
+
+    }
+*/
+/* #greeny
+=========================== */
+
+
+/*.greeny {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        opacity: 0.95;
+
+    }*/
+
+    .greeny h5 {
+        color: hsl(220, 82%, 27%);
+    }
+
+
+/*    .greeny div {
+
+    }*/
+
+    .box.greeny.pale {
+        background-color: hsl(160, 66%, 83%);
+        border: solid hsl(220, 82%, 27%) 3px;
+    }
+
+   .box.greeny.light {
+        background-color: hsl(161, 63%, 71%);
+        border: solid hsl(220, 82%, 27%) 3px;
+    }
+
+   .box.greeny.medium {
+        background-color: hsl(160, 41%, 66%);
+        border: solid hsl(220, 82%, 27%) 3px;
+    }
+
+   .box.greeny.dark {
+        background-color: hsl(160, 53%, 55%);
+        border: solid hsl(160, 70%, 70%) 3px;
+
+    }
+
+/*.orangey
+=========================== */
+
+   .box.orangey h5 {
+        color: hsl(220, 82%, 37%);
+    }
+
+/.box *   .orangey div {
+
+        opacity: 0.95;
+    }*/
+   .box.orangey.pale {
+        background-color: hsl(30, 76%, 88%);
+        border: solid hsl(220, 82%, 37%) 3px;
+    }
+   .box.orangey.light {
+        background-color: hsl(43, 96%, 66%);
+        border: solid hsl(220, 82%, 37%) 3px;
+    }
+   .box.orangey.medium {
+        background-color: hsl(36, 75%, 60%);
+        border: solid hsl(220, 82%, 37%) 3px;
+    }
+   .box.orangey.dark {
+        background-color: hsl(39, 74%, 52%);
+        border: solid hsl(220, 82%, 37%) 3px;
+    }
+
+/*.bluey
+=========================== */
+
+
+/*   .bluey {
+        padding-top: 10px;
+        padding-bottom: 10px;
+
+    }*/
+
+/*   .bluey div {
+
+        opacity: 0.95;
+    }*/
+
+   .box.bluey.pale {
+        background-color: hsl(200, 100%, 92%);
+        border: solid hsl(250, 82%, 18%) 3px;
+
+    }
+   .box.bluey.pale h5 {
+        color: hsl(250, 82%, 18%);
+        /*margin: 0px 8px;*/
+    }
+
+   .box.bluey.light {
+        background-color: hsl(200, 95%, 89%);
+        border: solid hsl(250, 82%, 18%) 3px;
+
+    }
+
+   .box.bluey.medium {
+        background-color: hsl(200, 89%, 85%);
+        /*background-color: hsl(250, 32%, 58%);*/
+        border: solid hsl(250, 82%, 18%) 3px;
+    }
+
+   .box.bluey.dark {
+        background-color: hsl(200, 85%, 80%);
+        border: solid hsl(250, 82%, 18%) 3px;
+
+
+    }
+
+/*.reddy
+=========================== */
+
+   .reddy {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+   .reddy.pale {
+        background-color: hsl(64, 33%, 90%);
+        border: solid hsl(250, 82%, 18%) 3px;
+    }
+
+   .reddy.light {
+        background-color: hsl(64, 44%, 80%);
+        border: solid hsl(250, 82%, 18%) 3px;
+    }
+
+   .reddy.medium {
+        background-color: hsl(64, 50%, 70%);
+        border: solid hsl(250, 82%, 18%) 3px;
+
+    }
+
+   .reddy.dark {
+        background-color: hsl(64, 60%, 60%);
+        border: solid hsl(250, 82%, 18%) 3px;
+    }
+
+/* #needs organizing
+=========================== */
+
+    #color_5 * h5 {
+        color: black;
+    }
+    #color_1 .box {
+        border: solid hsl(250, 32%, 58%) 2px;
+    }
+    #color_2 .box {
+        border: solid hsl(250, 32%, 58%) 2px;
+    }
+    #color_5 .box {
+        border: solid hsl(100, 40%, 30%) 2px;
+    }
+
+/* #Font-Face
+=========================== */
+    @font-face {    font-family: 'Prociono';
+        src: url('../fonts/prociono/Prociono-Regular-webfont.eot');
+        src: url('../fonts/prociono/Prociono-Regular-webfont.eot?iefix') format('eot'),
+        url('../fonts/prociono/Prociono-Regular-webfont.woff') format('woff'),
+        url('../fonts/prociono/Prociono-Regular-webfont.ttf') format('truetype'),
+        url('../fonts/prociono/Prociono-Regular-webfont.svg#webfontLqDKYAnt') format('svg');
+        font-weight: normal;
+        font-style: normal; }
+	@font-face {	font-family: 'Signika';
+		src: url('../fonts/signika/Signika-Regular-webfont.eot');
+		src: url('../fonts/signika/Signika-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+			 url('../fonts/signika/Signika-Regular-webfont.woff') format('woff'),
+			 url('../fonts/signika/Signika-Regular-webfont.ttf') format('truetype'),
+			 url('../fonts/signika/Signika-Regular-webfont.svg#Signika/Regular') format('svg');
+		font-weight: normal;
+		font-style: normal;
+    }
+
+        @font-face {
+        font-family: 'SortsMillGoudyRegular';
+        src: url('../fonts/goudystm/GoudyStM-webfont.eot');
+        src: url('../fonts/goudystm/GoudyStM-webfont.eot?#iefix') format('embedded-opentype'),
+             url('../fonts/goudystm/GoudyStM-webfont.woff') format('woff'),
+             url('../fonts/goudystm/GoudyStM-webfont.ttf') format('truetype'),
+             url('../fonts/goudystm/GoudyStM-webfont.svg#SortsMillGoudyRegular') format('svg');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'AlteHaasGrotesk';
+        src: url('../fonts/alte_haas_grotesk/AlteHaasGroteskRegular.ttf') format('truetype'),
+             url('../fonts/alte_haas_grotesk/AlteHaasGroteskBold.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
