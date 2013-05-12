@@ -1,0 +1,23 @@
+/*.orangey
+=========================== */
+
+   .box.orangey {
+        border: solid white 3px;
+        /*border: solid hsl(220, 82%, 37%) 3px;*/
+    }
+
+   .box.orangey.pale {
+        background-color: hsl(43, 96%, 80%);
+    }
+
+   .box.orangey.light {
+        background-color: hsl(43, 96%, 66%);
+    }
+
+   .box.orangey.medium {
+        background-color: hsl(41, 85%, 60%);
+    }
+
+   .box.orangey.dark {
+        background-color: hsl(39, 74%, 52%);
+    }

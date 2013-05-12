@@ -15,15 +15,39 @@
 			"file": "stylesheets/layout.css",
 			"settings":
 			{
-				"buffer_size": 6993,
+				"buffer_size": 4192,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/Users/Scott/Desktop/sponsors.txt",
+			"file": "index.htm",
 			"settings":
 			{
-				"buffer_size": 8562,
+				"buffer_size": 3096,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stylesheets/color_greeny.css",
+			"settings":
+			{
+				"buffer_size": 452,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/layout.js",
+			"settings":
+			{
+				"buffer_size": 404,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stylesheets/color_orangey.css",
+			"settings":
+			{
+				"buffer_size": 452,
 				"line_ending": "Windows"
 			}
 		}
@@ -31,28 +55,64 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 196.0,
+		"height": 58.0,
 		"selected_items":
 		[
 			[
-				"par",
+				"parem",
 				"Package Control: Remove Package"
-			],
-			[
-				"pai",
-				"Package Control: Install Package"
 			],
 			[
 				"pare",
 				"Package Control: Remove Package"
 			],
 			[
+				"gitdifi",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"gitdifil",
+				"Git: Diff Current File"
+			],
+			[
+				"git di",
+				"Git: Diff All"
+			],
+			[
+				"ai",
+				"Package Control: Install Package"
+			],
+			[
 				"read",
 				"ReadmePlease"
 			],
 			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gi",
+				"Git: Status"
+			],
+			[
+				"g",
+				"Git: Commit"
+			],
+			[
 				"readm",
 				"ReadmePlease"
+			],
+			[
+				"pai",
+				"Package Control: Install Package"
+			],
+			[
+				"par",
+				"Package Control: Remove Package"
 			],
 			[
 				"readon",
@@ -65,10 +125,6 @@
 			[
 				"readme",
 				"ReadmePlease"
-			],
-			[
-				"parem",
-				"Package Control: Remove Package"
 			],
 			[
 				"pacre",
@@ -85,10 +141,6 @@
 			[
 				"Package Control: re",
 				"Package Control: Remove Package"
-			],
-			[
-				"ai",
-				"Package Control: Install Package"
 			],
 			[
 				"paci",
@@ -227,7 +279,7 @@
 				"Snippet: slideToggle"
 			]
 		],
-		"width": 528.0
+		"width": 430.0
 	},
 	"console":
 	{
@@ -244,15 +296,27 @@
 	},
 	"file_history":
 	[
-		"/C/wamp/www/assets/GeneratedScheme_1.htm",
+		"/C/wamp/www/portfolio/stylesheets/color_bluey.css",
+		"/C/wamp/www/portfolio/stylesheets/color_orangey.css",
+		"/C/wamp/www/getoffyourself/index.htm",
+		"/C/wamp/www/portfolio/stylesheets/color_greeny.css",
+		"/C/wamp/www/portfolio/stylesheets/color_reddy.css",
+		"/C/wamp/www/portfolio/stylesheets/skeleton.css",
+		"/C/wamp/www/portfolio/stylesheets/base.css",
 		"/C/wamp/www/SMRF/stylesheets/skeleton.css",
+		"/C/wamp/www/portfolio/fonts/alegreya/stylesheet.css",
+		"/C/wamp/www/portfolio/portfolio.sublime-project",
+		"/C/wamp/www/portfolio/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Git/README.markdown",
+		"/C/Users/Scott/Desktop/sponsors.txt",
+		"/C/wamp/www/assets/GeneratedScheme_1.htm",
 		"/C/wamp/www/SMRF/index_swatches.htm",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/wamp/www/SMRF/index.htm",
 		"/C/wamp/www/SMRF/stylesheets/layout-expose.css",
 		"/C/wamp/www/SMRF/fonts/smgoudy/stylesheet.css",
-		"/C/wamp/www/getoffyourself/index.htm",
 		"/C/wamp/www/SMRF/stylesheets/color_swatches.htm",
 		"/C/wamp/www/SMRF_dev/stylesheets/layout.css",
 		"/C/wamp/www/SMRF_dev/stylesheets/color_swatches.htm",
@@ -293,7 +357,6 @@
 		"/C/Users/Scott/Documents/Mundane/Misc/Computer/CodeWiki/code.wiki",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Wiki/readme.md",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Browser Refresh/README.md",
-		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 		"/C/wamp/www/getoffyourself/stylesheets/indent_demo.htm",
 		"/C/wamp/www/getoffyourself/what_you_think.htm",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/FTPSync/README.md",
@@ -333,6 +396,50 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"        border: solid hsl(220, 82%, 27%) 3px;\n",
+			"border: solid hsl(220, 82%, 37%) 3px;",
+			" class=\"four columns omega\"",
+			"bluey",
+			"ornagey",
+			"greeny",
+			"orangey",
+			"greeny",
+			"color_orangey",
+			"header-",
+			"header-skills",
+			"skills",
+			"div.realm",
+			"Skills",
+			"greeny",
+			"span",
+			"four",
+			"div",
+			"Life",
+			"four",
+			"eight",
+			"pale",
+			" class=\"clear\"></di",
+			"bluey",
+			"greeny",
+			"light",
+			"medium",
+			"pale",
+			"Photography",
+			"style",
+			"bottom",
+			"AlegreyaSCRegular",
+			" ",
+			"Prociono",
+			"Signika",
+			"h6",
+			"            <div class=\"four columns alpha collapsible\">\n",
+			"=\"four columns ",
+			"##-#### -->\n        </div>\n",
+			"div class=\"four columns\">",
+			"h2",
+			"AlegreyaSC-Reg",
+			"Prociono",
+			"AlegreyaSCRegular",
 			"iono_",
 			"bluey medium",
 			"box greeny medium",
@@ -416,51 +523,7 @@
 			"GoudyStM",
 			"vollkorm",
 			"-ttf",
-			"Vollkorm/Vol",
-			"signika",
-			"Signika",
-			"signika",
-			"Signika",
-			"signika",
-			"Signika",
-			"signika",
-			"Signika",
-			"signika",
-			"Signika",
-			"signika",
-			"Signika",
-			"signika",
-			"Signika",
-			"signika",
-			"5",
-			"box light",
-			"three columns",
-			"thirteen",
-			"five columns omega",
-			"h4",
-			"opaci",
-			"box medium",
-			"10",
-			"12",
-			":after",
-			"light four ",
-			"class",
-			"bluey",
-			"blouey",
-			"greeny",
-			"\">",
-			"==================================================",
-			"height:80px; ",
-			"height:20px; ",
-			"height:40px; ",
-			"height:60px; ",
-			"height",
-			"padding-left:",
-			"height:4px; ",
-			"</div>",
-			"ng-right",
-			" ac",
-			"ackground"
+			"Vollkorm/Vol"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -521,7 +584,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -529,15 +592,15 @@
 					"file": "stylesheets/layout.css",
 					"settings":
 					{
-						"buffer_size": 6993,
+						"buffer_size": 4192,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2117,
-								2117
+								1700,
+								1700
 							]
 						],
 						"settings":
@@ -548,33 +611,119 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 770.0,
+						"translation.y": 322.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Scott/Desktop/sponsors.txt",
+					"file": "index.htm",
 					"settings":
 					{
-						"buffer_size": 8562,
+						"buffer_size": 3096,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								521,
-								521
+								2044,
+								2044
+							],
+							[
+								2500,
+								2500
 							]
 						],
 						"settings":
 						{
-							"encoding_helper_confidence": 1.0,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 574.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "stylesheets/color_greeny.css",
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								452,
+								452
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "scripts/layout.js",
+					"settings":
+					{
+						"buffer_size": 404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								404,
+								404
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "stylesheets/color_orangey.css",
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								452,
+								452
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -602,11 +751,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.575731497418,
 			1.0
 		],
 		"rows":
@@ -616,6 +772,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.git":
+	{
+		"height": 94.0
+	},
 	"replace":
 	{
 		"height": 62.0
@@ -626,6 +786,22 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"gre",
+				"stylesheets/color_greeny.css"
+			],
+			[
+				"bas",
+				"stylesheets/base.css"
+			],
+			[
+				"skel",
+				"stylesheets/skeleton.css"
+			],
+			[
+				"ind",
+				"index.htm"
+			],
 			[
 				"lay",
 				"scripts/layout.js"

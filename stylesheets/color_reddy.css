@@ -1,0 +1,28 @@
+/*.reddy
+=========================== */
+
+   .reddy {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+   .reddy.pale {
+        background-color: hsl(64, 33%, 90%);
+        border: solid hsl(250, 82%, 18%) 3px;
+    }
+
+   .reddy.light {
+        background-color: hsl(64, 44%, 80%);
+        border: solid hsl(250, 82%, 18%) 3px;
+    }
+
+   .reddy.medium {
+        background-color: hsl(64, 50%, 70%);
+        border: solid hsl(250, 82%, 18%) 3px;
+
+    }
+
+   .reddy.dark {
+        background-color: hsl(64, 60%, 60%);
+        border: solid hsl(250, 82%, 18%) 3px;
+    }

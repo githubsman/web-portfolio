@@ -1,0 +1,24 @@
+/*.bluey
+=========================== */
+
+   .box.bluey.pale {
+        background-color: hsl(200, 100%, 92%);
+        border: solid hsl(250, 82%, 18%) 3px;
+    }
+   .box.bluey.pale h5 {
+        /*color: hsl(250, 82%, 18%);*/
+        /*margin: 0px 8px;*/
+    }
+   .box.bluey.light {
+        background-color: hsl(200, 95%, 89%);
+        border: solid hsl(250, 82%, 18%) 3px;
+    }
+   .box.bluey.medium {
+        background-color: hsl(200, 89%, 85%);
+        /*background-color: hsl(250, 32%, 58%);*/
+        border: solid hsl(250, 82%, 18%) 3px;
+    }
+   .box.bluey.dark {
+        background-color: hsl(200, 85%, 80%);
+        border: solid hsl(250, 82%, 18%) 3px;
+    }
