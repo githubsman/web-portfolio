@@ -54,39 +54,31 @@
         opacity: 0.9;
         z-index: 2;
         overflow: hidden;
-
     }
 
 
-    h3, h4, h5, h6 {
+    h1 {
+        font-family: 'AlegreyaSCRegular';
+    }
+
+
+    h2, h3, h4, h5, h6  {
         font-family: 'Signika';
-        margin: 0px;
     }
 
-    h2  {
-        font-family: 'Prociono';
-        /*font-weight: bold;*/
+    h1, h4 {
+        padding:5px 4px 0px 4px;
         color:white;
         text-shadow: 2px 2px 0px hsl(250, 82%, 12%);
-
         letter-spacing: 2px;
-        margin-top: 8px;
-        margin-bottom: 0;
+     /*   margin-top: 8px;
+        margin-bottom: 0;*/
     }
-
-    #masthead h6 {
-
-        font-family: 'Prociono';
-        /*font-weight: bold;*/
-        color:white;
-        /*text-shadow: 2px 2px 0px hsl(250, 82%, 12%), 3px 3px 0px white;*/
-/*        text-shadow: 2px 2px 0px hsl(250, 82%, 12%);
-
-        letter-spacing: 1px;*/
-        margin-top: 8px;
-        margin-bottom: 0px;
+/*
+    h1, h4 {
+        padding:5px 30px 0px 20px;
     }
-
+*/
     .collapsible {
         height: 2px;
     }
@@ -258,14 +250,18 @@
 
 /* #Font-Face
 =========================== */
-    @font-face {    font-family: 'Prociono';
-        src: url('../fonts/prociono/Prociono-Regular-webfont.eot');
-        src: url('../fonts/prociono/Prociono-Regular-webfont.eot?iefix') format('eot'),
-        url('../fonts/prociono/Prociono-Regular-webfont.woff') format('woff'),
-        url('../fonts/prociono/Prociono-Regular-webfont.ttf') format('truetype'),
-        url('../fonts/prociono/Prociono-Regular-webfont.svg#webfontLqDKYAnt') format('svg');
+    @font-face {
+        font-family: 'AlegreyaSCRegular';
+        src: url('../fonts/alegreya/AlegreyaSC-Regular-webfont.eot');
+        src: url('../fonts/alegreya/AlegreyaSC-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+             url('../fonts/alegreya/AlegreyaSC-Regular-webfont.woff') format('woff'),
+             url('../fonts/alegreya/AlegreyaSC-Regular-webfont.ttf') format('truetype'),
+             url('../fonts/alegreya/AlegreyaSC-Regular-webfont.svg#AlegreyaSCRegular') format('svg');
         font-weight: normal;
-        font-style: normal; }
+        font-style: normal;
+
+    }
+
 	@font-face {	font-family: 'Signika';
 		src: url('../fonts/signika/Signika-Regular-webfont.eot');
 		src: url('../fonts/signika/Signika-Regular-webfont.eot?#iefix') format('embedded-opentype'),
