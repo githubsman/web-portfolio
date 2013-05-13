@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"tex",
+				"text-decoration"
+			],
+			[
 				"tr",
 				"trivial"
 			]
@@ -15,7 +19,7 @@
 			"file": "stylesheets/layout.css",
 			"settings":
 			{
-				"buffer_size": 4192,
+				"buffer_size": 5165,
 				"line_ending": "Unix"
 			}
 		},
@@ -23,47 +27,127 @@
 			"file": "index.htm",
 			"settings":
 			{
-				"buffer_size": 3096,
-				"line_ending": "Windows"
+				"buffer_size": 3326,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "stylesheets/color_greeny.css",
 			"settings":
 			{
-				"buffer_size": 452,
+				"buffer_size": 1797,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stylesheets/color_bluey.css",
+			"settings":
+			{
+				"buffer_size": 746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "smrf-about.htm",
+			"settings":
+			{
+				"buffer_size": 4309,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web-dev.htm",
+			"settings":
+			{
+				"buffer_size": 2148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "smrf.htm",
+			"settings":
+			{
+				"buffer_size": 4393,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ftpsync.settings",
+			"settings":
+			{
+				"buffer_size": 3844,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "scripts/layout.js",
 			"settings":
 			{
-				"buffer_size": 404,
-				"line_ending": "Windows"
+				"buffer_size": 937,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "stylesheets/color_orangey.css",
 			"settings":
 			{
-				"buffer_size": 452,
-				"line_ending": "Windows"
+				"buffer_size": 1698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 885,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/color_reddy.css",
+			"settings":
+			{
+				"buffer_size": 1775,
+				"line_ending": "Unix"
 			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 58.0,
+		"height": 265.0,
 		"selected_items":
 		[
 			[
-				"parem",
-				"Package Control: Remove Package"
+				"ft",
+				"FTPSync: Setup FTPSync in this folder"
 			],
 			[
 				"pare",
+				"Package Control: Remove Package"
+			],
+			[
+				"cx",
+				"Create Xiki Buffer"
+			],
+			[
+				"cre",
+				"Create Xiki Buffer"
+			],
+			[
+				"readm",
+				"ReadmePlease"
+			],
+			[
+				"pai",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Indent.txt: Parse"
+			],
+			[
+				"parem",
 				"Package Control: Remove Package"
 			],
 			[
@@ -101,14 +185,6 @@
 			[
 				"g",
 				"Git: Commit"
-			],
-			[
-				"readm",
-				"ReadmePlease"
-			],
-			[
-				"pai",
-				"Package Control: Install Package"
 			],
 			[
 				"par",
@@ -231,10 +307,6 @@
 				"Set Syntax: jQuery (JavaScript)"
 			],
 			[
-				"ft",
-				"FTPSync: Setup FTPSync in this folder"
-			],
-			[
 				"project",
 				"Project: Save As"
 			],
@@ -259,10 +331,6 @@
 				"Indentation: Reindent Lines"
 			],
 			[
-				"i",
-				"Indent.txt: Parse"
-			],
-			[
 				"tidy",
 				"Tidy CSS"
 			],
@@ -279,7 +347,7 @@
 				"Snippet: slideToggle"
 			]
 		],
-		"width": 430.0
+		"width": 528.0
 	},
 	"console":
 	{
@@ -296,13 +364,17 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/portfolio/stylesheets/base.css",
+		"/C/wamp/www/portfolio/images/rio_vista_chute-38.png",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/SublimeXiki/README.markdown",
+		"/C/wamp/www/portfolio/photography.htm",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Line Completion/README.md",
 		"/C/wamp/www/portfolio/stylesheets/color_bluey.css",
 		"/C/wamp/www/portfolio/stylesheets/color_orangey.css",
 		"/C/wamp/www/getoffyourself/index.htm",
 		"/C/wamp/www/portfolio/stylesheets/color_greeny.css",
 		"/C/wamp/www/portfolio/stylesheets/color_reddy.css",
 		"/C/wamp/www/portfolio/stylesheets/skeleton.css",
-		"/C/wamp/www/portfolio/stylesheets/base.css",
 		"/C/wamp/www/SMRF/stylesheets/skeleton.css",
 		"/C/wamp/www/portfolio/fonts/alegreya/stylesheet.css",
 		"/C/wamp/www/portfolio/portfolio.sublime-project",
@@ -396,6 +468,35 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"dark",
+			"body",
+			"container",
+			"h5",
+			"h2",
+			":hover",
+			"reddy",
+			"7px",
+			"90",
+			"hsl(60, 60",
+			"60",
+			"background",
+			"160",
+			"background",
+			"66",
+			"39",
+			"96",
+			"160",
+			"58",
+			"\n        background: -webkit-gradient(linear, left top, left bottom, from(hsl(160, 58%, 80%)), to(hsl(160, 58%, 60%)));\n        background: -moz-linear-gradient(top, hsl(160, 58%, 80%),  hsl(160, 58%, 60%));\n        filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(160, 58%, 80%)', endColorstr='hsl(160, 58%, 60%)');\n",
+			"round-color: h",
+			"73",
+			"63",
+			"f47a20",
+			"endColorstr",
+			"faa51a",
+			"greeny",
+			"161",
+			"hsl",
 			"        border: solid hsl(220, 82%, 27%) 3px;\n",
 			"border: solid hsl(220, 82%, 37%) 3px;",
 			" class=\"four columns omega\"",
@@ -494,36 +595,7 @@
 			"100",
 			"hsl",
 			"hsl(200",
-			"63",
-			"div class=\"two columns omega\">",
-			"<div class=\"twelve columns alpha collapsible\">",
-			"<div class=\"four columns omega\">",
-			"h4",
-			"columns",
-			"h4",
-			"h3",
-			"h4",
-			"h3",
-			"goudystm",
-			"GoudyStM",
-			"goudystm",
-			"GoudyStM",
-			"goudystm",
-			"GoudyStM",
-			"goudystm",
-			"GoudyStM",
-			"goudystm",
-			"sl(100",
-			": hsl(100",
-			"sl(158",
-			"sl(180",
-			"hsl(160",
-			"hsl(200",
-			"signika",
-			"GoudyStM",
-			"vollkorm",
-			"-ttf",
-			"Vollkorm/Vol"
+			"63"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -584,7 +656,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -592,15 +664,15 @@
 					"file": "stylesheets/layout.css",
 					"settings":
 					{
-						"buffer_size": 4192,
+						"buffer_size": 5165,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1700,
-								1700
+								455,
+								455
 							]
 						],
 						"settings":
@@ -611,7 +683,7 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 322.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -621,19 +693,15 @@
 					"file": "index.htm",
 					"settings":
 					{
-						"buffer_size": 3096,
+						"buffer_size": 3326,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2044,
-								2044
-							],
-							[
-								2500,
-								2500
+								1270,
+								1270
 							]
 						],
 						"settings":
@@ -642,7 +710,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 574.0,
+						"translation.y": 1092.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -652,15 +720,15 @@
 					"file": "stylesheets/color_greeny.css",
 					"settings":
 					{
-						"buffer_size": 452,
+						"buffer_size": 1797,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								452,
-								452
+								65,
+								65
 							]
 						],
 						"settings":
@@ -672,32 +740,26 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 3,
-					"file": "scripts/layout.js",
+					"file": "stylesheets/color_bluey.css",
 					"settings":
 					{
-						"buffer_size": 404,
+						"buffer_size": 746,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								404,
-								404
+								111,
+								111
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -707,18 +769,206 @@
 				},
 				{
 					"buffer": 4,
-					"file": "stylesheets/color_orangey.css",
+					"file": "smrf-about.htm",
 					"settings":
 					{
-						"buffer_size": 452,
+						"buffer_size": 4309,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								452,
-								452
+								1493,
+								1493
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 197.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "web-dev.htm",
+					"settings":
+					{
+						"buffer_size": 2148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1848,
+								1848
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 203.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "smrf.htm",
+					"settings":
+					{
+						"buffer_size": 4393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4361,
+								4361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1182.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "ftpsync.settings",
+					"settings":
+					{
+						"buffer_size": 3844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2762,
+								2762
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 749.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "scripts/layout.js",
+					"settings":
+					{
+						"buffer_size": 937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "stylesheets/color_orangey.css",
+					"settings":
+					{
+						"buffer_size": 1698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								563,
+								563
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								647,
+								647
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "stylesheets/color_reddy.css",
+					"settings":
+					{
+						"buffer_size": 1775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								607,
+								607
 							]
 						],
 						"settings":
@@ -762,7 +1012,7 @@
 		"cols":
 		[
 			0.0,
-			0.575731497418,
+			0.530137693632,
 			1.0
 		],
 		"rows":
@@ -787,12 +1037,28 @@
 		"selected_items":
 		[
 			[
-				"gre",
-				"stylesheets/color_greeny.css"
-			],
-			[
 				"bas",
 				"stylesheets/base.css"
+			],
+			[
+				"pho",
+				"photography.htm"
+			],
+			[
+				"web",
+				"web-dev.htm"
+			],
+			[
+				"blue",
+				"stylesheets/color_bluey.css"
+			],
+			[
+				"lor_re",
+				"stylesheets/color_reddy.css"
+			],
+			[
+				"gre",
+				"stylesheets/color_greeny.css"
 			],
 			[
 				"skel",
@@ -834,6 +1100,14 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"smr",
+				"/C/wamp/www/SMRF/SMRF.sublime-project"
+			],
+			[
+				"",
+				"/C/wamp/www/getoffyourself/GetOffYourself.sublime-project"
+			]
 		],
 		"width": 380.0
 	},

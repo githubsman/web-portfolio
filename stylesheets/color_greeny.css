@@ -1,13 +1,8 @@
 /* #greeny
 =========================== */
 
-   .box.greeny {
-        border: solid black 1px;
-        /*border: solid hsl(220, 82%, 27%) 3px;*/
-
-        background: -webkit-gradient(linear, left top, left bottom, from(hsl(160, 58%, 80%)), to(hsl(160, 58%, 60%)));
-        background: -moz-linear-gradient(top, hsl(160, 58%, 80%),  hsl(160, 58%, 60%));
-        filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(160, 58%, 80%)', endColorstr='hsl(160, 58%, 60%)');
+    .box.greeny.generic {
+        background-color: hsl(161, 66%, 83%);
     }
 
     .box.greeny.pale {
