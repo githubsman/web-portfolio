@@ -2,22 +2,43 @@
 =========================== */
 
    .box.greeny {
-        border: solid white 3px;
+        border: solid black 1px;
         /*border: solid hsl(220, 82%, 27%) 3px;*/
+
+        background: -webkit-gradient(linear, left top, left bottom, from(hsl(160, 58%, 80%)), to(hsl(160, 58%, 60%)));
+        background: -moz-linear-gradient(top, hsl(160, 58%, 80%),  hsl(160, 58%, 60%));
+        filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(160, 58%, 80%)', endColorstr='hsl(160, 58%, 60%)');
     }
 
     .box.greeny.pale {
-        background-color: hsl(161, 66%, 83%);
+        /*background-color: hsl(161, 66%, 83%);*/
+
+        background: -webkit-gradient(linear, left top, left bottom, from(hsl(160, 66%, 90%)), to(hsl(160, 66%, 70%)));
+        background: -moz-linear-gradient(top, hsl(160, 66%, 90%),  hsl(160, 66%, 70%));
+        filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(160, 66%, 90%)', endColorstr='hsl(160, 66%, 70%)');
     }
 
    .box.greeny.light {
-        background-color: hsl(161, 63%, 70%);
+        /*background-color: hsl(161, 63%, 70%);*/
+
+        background: -webkit-gradient(linear, left top, left bottom, from(hsl(160, 63%, 86%)), to(hsl(160, 63%, 66%)));
+        background: -moz-linear-gradient(top, hsl(160, 63%, 66%),  hsl(160, 63%, 66%));
+        filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(160, 63%, 86%)', endColorstr='hsl(160, 63%, 66%)');
     }
 
    .box.greeny.medium {
-        background-color: hsl(160, 58%, 63%);
+        /*background-color: hsl(160, 58%, 63%);*/
+
+        background: -webkit-gradient(linear, left top, left bottom, from(hsl(160, 58%, 80%)), to(hsl(160, 58%, 60%)));
+        background: -moz-linear-gradient(top, hsl(160, 58%, 80%),  hsl(160, 58%, 60%));
+        filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(160, 58%, 80%)', endColorstr='hsl(160, 58%, 60%)');
+
     }
 
    .box.greeny.dark {
-        background-color: hsl(160, 53%, 55%);
+        /*background-color: hsl(160, 53%, 55%);*/
+
+        background: -webkit-gradient(linear, left top, left bottom, from(hsl(160, 53%, 72%)), to(hsl(160, 53%, 52%)));
+        background: -moz-linear-gradient(top, hsl(160, 53%, 72%),  hsl(160, 53%, 52%));
+        filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(160, 53%, 72%)', endColorstr='hsl(160, 53%, 52%)');
     }
