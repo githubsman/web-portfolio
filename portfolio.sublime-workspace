@@ -16,42 +16,10 @@
 	"buffers":
 	[
 		{
-			"file": "stylesheets/layout.css",
-			"settings":
-			{
-				"buffer_size": 5165,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "index.htm",
 			"settings":
 			{
-				"buffer_size": 3326,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "stylesheets/color_greeny.css",
-			"settings":
-			{
-				"buffer_size": 1797,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "stylesheets/color_bluey.css",
-			"settings":
-			{
-				"buffer_size": 746,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "smrf-about.htm",
-			"settings":
-			{
-				"buffer_size": 4309,
+				"buffer_size": 2703,
 				"line_ending": "Unix"
 			}
 		},
@@ -67,23 +35,23 @@
 			"file": "smrf.htm",
 			"settings":
 			{
-				"buffer_size": 4393,
+				"buffer_size": 3672,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "ftpsync.settings",
+			"file": "smrf-about.htm",
 			"settings":
 			{
-				"buffer_size": 3844,
+				"buffer_size": 5269,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "scripts/layout.js",
+			"file": "stylesheets/layout.css",
 			"settings":
 			{
-				"buffer_size": 937,
+				"buffer_size": 5315,
 				"line_ending": "Unix"
 			}
 		},
@@ -91,23 +59,15 @@
 			"file": "stylesheets/color_orangey.css",
 			"settings":
 			{
-				"buffer_size": 1698,
+				"buffer_size": 1690,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"file": "stylesheets/layout-gray.css",
 			"settings":
 			{
-				"buffer_size": 885,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "stylesheets/color_reddy.css",
-			"settings":
-			{
-				"buffer_size": 1775,
+				"buffer_size": 5258,
 				"line_ending": "Unix"
 			}
 		}
@@ -115,9 +75,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 265.0,
+		"height": 81.0,
 		"selected_items":
 		[
+			[
+				"difc",
+				"Git: Diff Current File"
+			],
 			[
 				"ft",
 				"FTPSync: Setup FTPSync in this folder"
@@ -347,7 +311,7 @@
 				"Snippet: slideToggle"
 			]
 		],
-		"width": 528.0
+		"width": 442.0
 	},
 	"console":
 	{
@@ -364,16 +328,19 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/portfolio/stylesheets/color_orangey.css",
+		"/C/wamp/www/portfolio/stylesheets/color_greeny.css",
+		"/C/wamp/www/portfolio/stylesheets/color_bluey.css",
+		"/C/wamp/www/portfolio/ftpsync.settings",
+		"/C/wamp/www/portfolio/scripts/layout.js",
+		"/C/wamp/www/portfolio/stylesheets/color_reddy.css",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/wamp/www/portfolio/stylesheets/base.css",
 		"/C/wamp/www/portfolio/images/rio_vista_chute-38.png",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/SublimeXiki/README.markdown",
 		"/C/wamp/www/portfolio/photography.htm",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Line Completion/README.md",
-		"/C/wamp/www/portfolio/stylesheets/color_bluey.css",
-		"/C/wamp/www/portfolio/stylesheets/color_orangey.css",
 		"/C/wamp/www/getoffyourself/index.htm",
-		"/C/wamp/www/portfolio/stylesheets/color_greeny.css",
-		"/C/wamp/www/portfolio/stylesheets/color_reddy.css",
 		"/C/wamp/www/portfolio/stylesheets/skeleton.css",
 		"/C/wamp/www/SMRF/stylesheets/skeleton.css",
 		"/C/wamp/www/portfolio/fonts/alegreya/stylesheet.css",
@@ -385,7 +352,6 @@
 		"/C/wamp/www/assets/GeneratedScheme_1.htm",
 		"/C/wamp/www/SMRF/index_swatches.htm",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/wamp/www/SMRF/index.htm",
 		"/C/wamp/www/SMRF/stylesheets/layout-expose.css",
 		"/C/wamp/www/SMRF/fonts/smgoudy/stylesheet.css",
@@ -457,7 +423,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 90.0,
 		"where_history":
 		[
 			"<open folders>"
@@ -468,6 +434,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"6px",
+			"12px",
+			"6px",
+			"12px",
+			"go-web-dev",
+			"greeny",
+			"box orangey ",
+			"links",
 			"dark",
 			"body",
 			"container",
@@ -587,15 +561,7 @@
 			"; 3px;",
 			"greeny",
 			"h6",
-			"Rights",
-			"third",
-			"        <div class=\"four columns alpha\">\n            <div class=\"box\" style=\"background-color: hsl(44, 76%, 64%);\">\n                <h6>B2</h6>\n            </div>\n        </div>\n\n",
-			"\"four columns\" style=\"background-color: hsl(33, 72%, 60%);",
-			"box",
-			"100",
-			"hsl",
-			"hsl(200",
-			"63"
+			"Rights"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -603,6 +569,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"nav",
 			" - `\\2`    \\1",
 			"Ctrl",
 			"Ctrl+",
@@ -656,52 +623,23 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "stylesheets/layout.css",
-					"settings":
-					{
-						"buffer_size": 5165,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								455,
-								455
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_confidence": 1.0,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "index.htm",
 					"settings":
 					{
-						"buffer_size": 3326,
+						"buffer_size": 2703,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1270,
-								1270
+								1805,
+								1796
 							]
 						],
 						"settings":
@@ -710,91 +648,13 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1092.0,
+						"translation.y": 210.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "stylesheets/color_greeny.css",
-					"settings":
-					{
-						"buffer_size": 1797,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								65,
-								65
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "stylesheets/color_bluey.css",
-					"settings":
-					{
-						"buffer_size": 746,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								111,
-								111
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "smrf-about.htm",
-					"settings":
-					{
-						"buffer_size": 4309,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1493,
-								1493
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 197.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
+					"buffer": 1,
 					"file": "web-dev.htm",
 					"settings":
 					{
@@ -820,19 +680,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 2,
 					"file": "smrf.htm",
 					"settings":
 					{
-						"buffer_size": 4393,
+						"buffer_size": 3672,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4361,
-								4361
+								0,
+								0
 							]
 						],
 						"settings":
@@ -846,27 +706,56 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "ftpsync.settings",
+					"buffer": 3,
+					"file": "smrf-about.htm",
 					"settings":
 					{
-						"buffer_size": 3844,
+						"buffer_size": 5269,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2762,
-								2762
+								1092,
+								1093
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 749.0,
+						"translation.y": 197.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "stylesheets/layout.css",
+					"settings":
+					{
+						"buffer_size": 5315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5315,
+								5315
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2282.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -874,49 +763,23 @@
 			]
 		},
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
-					"buffer": 8,
-					"file": "scripts/layout.js",
-					"settings":
-					{
-						"buffer_size": 937,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 42.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
+					"buffer": 5,
 					"file": "stylesheets/color_orangey.css",
 					"settings":
 					{
-						"buffer_size": 1698,
+						"buffer_size": 1690,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								563,
-								563
+								455,
+								455
 							]
 						],
 						"settings":
@@ -930,45 +793,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 10,
-					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"buffer": 6,
+					"file": "stylesheets/layout-gray.css",
 					"settings":
 					{
-						"buffer_size": 885,
+						"buffer_size": 5258,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								647,
-								647
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "stylesheets/color_reddy.css",
-					"settings":
-					{
-						"buffer_size": 1775,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								607,
-								607
+								2756,
+								2756
 							]
 						],
 						"settings":
@@ -976,7 +813,7 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1562.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

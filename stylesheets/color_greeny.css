@@ -1,11 +1,11 @@
-/* #greeny
+/* .greeny
 =========================== */
 
-    .box.greeny.generic {
+    .greeny.generic {
         background-color: hsl(161, 66%, 83%);
     }
 
-    .box.greeny.pale {
+    .greeny.pale {
         /*background-color: hsl(161, 66%, 83%);*/
 
         background: -webkit-gradient(linear, left top, left bottom, from(hsl(160, 66%, 90%)), to(hsl(160, 66%, 70%)));
@@ -13,7 +13,7 @@
         filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(160, 66%, 90%)', endColorstr='hsl(160, 66%, 70%)');
     }
 
-   .box.greeny.light {
+   .greeny.light {
         /*background-color: hsl(161, 63%, 70%);*/
 
         background: -webkit-gradient(linear, left top, left bottom, from(hsl(160, 63%, 86%)), to(hsl(160, 63%, 66%)));
@@ -21,7 +21,7 @@
         filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(160, 63%, 86%)', endColorstr='hsl(160, 63%, 66%)');
     }
 
-   .box.greeny.medium {
+   .greeny.medium {
         /*background-color: hsl(160, 58%, 63%);*/
 
         background: -webkit-gradient(linear, left top, left bottom, from(hsl(160, 58%, 80%)), to(hsl(160, 58%, 60%)));
@@ -30,7 +30,7 @@
 
     }
 
-   .box.greeny.dark {
+   .greeny.dark {
         /*background-color: hsl(160, 53%, 55%);*/
 
         background: -webkit-gradient(linear, left top, left bottom, from(hsl(160, 53%, 72%)), to(hsl(160, 53%, 52%)));

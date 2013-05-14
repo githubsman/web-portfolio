@@ -1,11 +1,11 @@
-/*.bluey
+/* .bluey
 =========================== */
 
-    .box.bluey.generic {
+    .bluey.generic {
         background-color: hsl(216, 70%, 93%);
     }
 
-   .box.bluey.pale {
+   .bluey.pale {
         /*background-color: hsl(200, 100%, 92%);*/
 
         background: -webkit-gradient(linear, left top, left bottom, from(hsl(200, 99%, 95%)), to(hsl(200, 99%, 75%)));
@@ -14,7 +14,7 @@
 
     }
 
-   .box.bluey.light {
+   .bluey.light {
         /*background-color: hsl(200, 95%, 89%);*/
 
         background: -webkit-gradient(linear, left top, left bottom, from(hsl(200, 95%, 91%)), to(hsl(200, 95%, 71%)));
@@ -22,14 +22,14 @@
         filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(200, 95%, 91%)', endColorstr='hsl(200, 95%, 71%)');
 
     }
-   .box.bluey.medium {
+   .bluey.medium {
         /*background-color: hsl(200, 89%, 85%);*/
         background: -webkit-gradient(linear, left top, left bottom, from(hsl(200, 89%, 88%)), to(hsl(200, 89%, 68%)));
         background: -moz-linear-gradient(top, hsl(200, 89%, 88%),  hsl(200, 89%, 68%));
         filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(200, 89%, 88%)', endColorstr='hsl(200, 89%, 68%)');
 
     }
-   .box.bluey.dark {
+   .bluey.dark {
         /*background-color: hsl(200, 85%, 80%);*/
 
         background: -webkit-gradient(linear, left top, left bottom, from(hsl(200, 85%, 83%)), to(hsl(200, 85%, 63%)));

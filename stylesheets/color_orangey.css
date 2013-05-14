@@ -1,7 +1,7 @@
 /*.orangey
 =========================== */
 
-   .box.orangey.pale {
+   .orangey.pale {
         /*background-color: hsl(43, 96%, 80%);*/
 
         background: -webkit-gradient(linear, left top, left bottom, from(hsl(43, 96%, 96%)), to(hsl(43, 96%, 76%)));
@@ -9,7 +9,7 @@
         filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(43, 96%, 96%)', endColorstr='hsl(43, 96%, 76%)');
     }
 
-   .box.orangey.light {
+   .orangey.light {
         /*background-color: hsl(43, 96%, 66%);*/
 
         background: -webkit-gradient(linear, left top, left bottom, from(hsl(43, 96%, 82%)), to(hsl(43, 96%, 62%)));
@@ -17,7 +17,7 @@
         filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(43, 96%, 82%)', endColorstr='hsl(43, 96%, 62%)');
     }
 
-   .box.orangey.medium {
+   .orangey.medium {
         /*background-color: hsl(41, 85%, 60%);*/
 
 
@@ -26,7 +26,7 @@
         filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(42, 76%, 56%)', endColorstr='hsl(42, 85%, 56%)');
     }
 
-   .box.orangey.dark {
+   .orangey.dark {
         /*background-color: hsl(39, 74%, 52%);*/
 
 
