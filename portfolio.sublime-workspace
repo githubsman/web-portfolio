@@ -19,15 +19,7 @@
 			"file": "index.htm",
 			"settings":
 			{
-				"buffer_size": 2703,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "web-dev.htm",
-			"settings":
-			{
-				"buffer_size": 2148,
+				"buffer_size": 2783,
 				"line_ending": "Unix"
 			}
 		},
@@ -35,7 +27,7 @@
 			"file": "smrf.htm",
 			"settings":
 			{
-				"buffer_size": 3672,
+				"buffer_size": 3189,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +35,7 @@
 			"file": "smrf-about.htm",
 			"settings":
 			{
-				"buffer_size": 5269,
+				"buffer_size": 3572,
 				"line_ending": "Unix"
 			}
 		},
@@ -51,23 +43,32 @@
 			"file": "stylesheets/layout.css",
 			"settings":
 			{
-				"buffer_size": 5315,
+				"buffer_size": 5372,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "stylesheets/color_orangey.css",
+			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/README.md",
 			"settings":
 			{
-				"buffer_size": 1690,
+				"buffer_size": 3706,
+				"line_ending": "Unix",
+				"read_only": true
+			}
+		},
+		{
+			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/Automatic Backups.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1546,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "stylesheets/layout-gray.css",
+			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Automatic Backups.sublime-settings",
 			"settings":
 			{
-				"buffer_size": 5258,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -75,9 +76,17 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 81.0,
+		"height": 334.0,
 		"selected_items":
 		[
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"tod",
+				"Show TODOs: Open files only"
+			],
 			[
 				"difc",
 				"Git: Diff Current File"
@@ -133,10 +142,6 @@
 			[
 				"ai",
 				"Package Control: Install Package"
-			],
-			[
-				"read",
-				"ReadmePlease"
 			],
 			[
 				"git com",
@@ -311,7 +316,7 @@
 				"Snippet: slideToggle"
 			]
 		],
-		"width": 442.0
+		"width": 528.0
 	},
 	"console":
 	{
@@ -328,17 +333,26 @@
 	},
 	"file_history":
 	[
-		"/C/wamp/www/portfolio/stylesheets/color_orangey.css",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Automatic Backups.sublime-settings",
+		"/C/wamp/www/portfolio/web-design.htm",
+		"/C/wamp/www/portfolio/coaching.htm",
+		"/C/wamp/www/portfolio/photography.htm",
+		"/C/wamp/www/portfolio/web-dev.htm",
 		"/C/wamp/www/portfolio/stylesheets/color_greeny.css",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/portfolio/images/rio_vista_chute-38.png",
+		"/C/wamp/www/portfolio/images/img_2592.jpg",
+		"/C/wamp/www/portfolio/images/froth.jpg",
+		"/C/wamp/www/portfolio/images/020.JPG",
+		"/C/wamp/www/portfolio/stylesheets/layout-gray.css",
+		"/C/wamp/www/portfolio/stylesheets/color_orangey.css",
 		"/C/wamp/www/portfolio/stylesheets/color_bluey.css",
+		"/C/wamp/www/portfolio/stylesheets/color_grayscaley.css",
+		"/C/wamp/www/portfolio/stylesheets/color_reddy.css",
 		"/C/wamp/www/portfolio/ftpsync.settings",
 		"/C/wamp/www/portfolio/scripts/layout.js",
-		"/C/wamp/www/portfolio/stylesheets/color_reddy.css",
-		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/wamp/www/portfolio/stylesheets/base.css",
-		"/C/wamp/www/portfolio/images/rio_vista_chute-38.png",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/SublimeXiki/README.markdown",
-		"/C/wamp/www/portfolio/photography.htm",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Line Completion/README.md",
 		"/C/wamp/www/getoffyourself/index.htm",
 		"/C/wamp/www/portfolio/stylesheets/skeleton.css",
@@ -423,7 +437,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 90.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"<open folders>"
@@ -434,6 +448,24 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"greeny",
+			"color_greeny",
+			"greeny",
+			"GREENY",
+			"bluey",
+			".\n",
+			"dark",
+			"jpg\">",
+			"h6",
+			"h4",
+			"id=\"go-home\" ",
+			" style=\"letter-spacing: -1px;\"",
+			"links",
+			"box.",
+			".box",
+			"s=\"box ",
+			"class=\"box ",
+			"class=\"box",
 			"6px",
 			"12px",
 			"6px",
@@ -543,25 +575,7 @@
 			"pale",
 			"dark",
 			"light",
-			"dark",
-			"columns columns",
-			"5",
-			"light",
-			"hsl(20",
-			"hsl(216",
-			"pale",
-			"light",
-			"pale",
-			"opacity",
-			"        \n",
-			"5",
-			"250",
-			"18",
-			"1",
-			"; 3px;",
-			"greeny",
-			"h6",
-			"Rights"
+			"dark"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -623,7 +637,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -631,15 +645,15 @@
 					"file": "index.htm",
 					"settings":
 					{
-						"buffer_size": 2703,
+						"buffer_size": 2783,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1805,
-								1796
+								2585,
+								2585
 							]
 						],
 						"settings":
@@ -648,25 +662,25 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 210.0,
+						"translation.y": 546.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "web-dev.htm",
+					"file": "smrf.htm",
 					"settings":
 					{
-						"buffer_size": 2148,
+						"buffer_size": 3189,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1848,
-								1848
+								2035,
+								2035
 							]
 						],
 						"settings":
@@ -674,17 +688,78 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 203.0,
+						"translation.y": 1057.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "smrf.htm",
+					"file": "smrf-about.htm",
 					"settings":
 					{
-						"buffer_size": 3672,
+						"buffer_size": 3572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1358,
+								1358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "stylesheets/layout.css",
+					"settings":
+					{
+						"buffer_size": 5372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1058,
+								1058
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 420.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/README.md",
+					"settings":
+					{
+						"buffer_size": 3706,
 						"regions":
 						{
 						},
@@ -697,94 +772,33 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1182.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
-				{
-					"buffer": 3,
-					"file": "smrf-about.htm",
-					"settings":
-					{
-						"buffer_size": 5269,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1092,
-								1093
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 197.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "stylesheets/layout.css",
-					"settings":
-					{
-						"buffer_size": 5315,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5315,
-								5315
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_confidence": 1.0,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2282.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
 				{
 					"buffer": 5,
-					"file": "stylesheets/color_orangey.css",
+					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/Automatic Backups.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 1690,
+						"buffer_size": 1546,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								455,
-								455
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -794,26 +808,26 @@
 				},
 				{
 					"buffer": 6,
-					"file": "stylesheets/layout-gray.css",
+					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Automatic Backups.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 5258,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2756,
-								2756
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1562.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -849,7 +863,7 @@
 		"cols":
 		[
 			0.0,
-			0.530137693632,
+			0.349957513452,
 			1.0
 		],
 		"rows":
@@ -952,6 +966,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 238.0,
+	"side_bar_width": 179.0,
 	"status_bar_visible": true
 }
