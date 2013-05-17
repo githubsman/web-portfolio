@@ -19,23 +19,15 @@
 			"file": "index.htm",
 			"settings":
 			{
-				"buffer_size": 2783,
+				"buffer_size": 3141,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "smrf.htm",
+			"file": "photography.htm",
 			"settings":
 			{
-				"buffer_size": 3189,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "smrf-about.htm",
-			"settings":
-			{
-				"buffer_size": 3572,
+				"buffer_size": 3039,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,32 +35,15 @@
 			"file": "stylesheets/layout.css",
 			"settings":
 			{
-				"buffer_size": 5372,
+				"buffer_size": 5463,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/README.md",
+			"file": "smrf-about.htm",
 			"settings":
 			{
-				"buffer_size": 3706,
-				"line_ending": "Unix",
-				"read_only": true
-			}
-		},
-		{
-			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/Automatic Backups.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 1546,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Automatic Backups.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 0,
+				"buffer_size": 3585,
 				"line_ending": "Unix"
 			}
 		}
@@ -76,9 +51,41 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 334.0,
+		"height": 127.0,
 		"selected_items":
 		[
+			[
+				"orimoor",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"orr",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"subm",
+				"Sublimerge: View Diff"
+			],
+			[
+				"merge",
+				"Sublimerge: View Diff"
+			],
+			[
+				"diff",
+				"Sublimerge: View Diff"
+			],
+			[
+				"pai",
+				"Package Control: Install Package"
+			],
+			[
+				"syndif",
+				"Set Syntax: Diff"
+			],
 			[
 				"read",
 				"ReadmePlease"
@@ -112,10 +119,6 @@
 				"ReadmePlease"
 			],
 			[
-				"pai",
-				"Package Control: Install Package"
-			],
-			[
 				"i",
 				"Indent.txt: Parse"
 			],
@@ -126,10 +129,6 @@
 			[
 				"gitdifi",
 				"Git: Diff Tool Current File"
-			],
-			[
-				"diff",
-				"FileDiffs: Menu"
 			],
 			[
 				"gitdifil",
@@ -316,7 +315,7 @@
 				"Snippet: slideToggle"
 			]
 		],
-		"width": 528.0
+		"width": 440.0
 	},
 	"console":
 	{
@@ -333,23 +332,31 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Automatic Backups.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/portfolio/smrf.htm",
+		"/C/wamp/www/portfolio/web-dev.htm",
+		"/C/wamp/www/portfolio/stylesheets/layout.css",
 		"/C/wamp/www/portfolio/web-design.htm",
+		"/C/wamp/www/portfolio/employment.htm",
+		"/C/wamp/www/portfolio/smrf-about.htm",
 		"/C/wamp/www/portfolio/coaching.htm",
 		"/C/wamp/www/portfolio/photography.htm",
-		"/C/wamp/www/portfolio/web-dev.htm",
+		"/C/wamp/www/portfolio/ftpsync.settings",
+		"/C/wamp/www/portfolio/stylesheets/color_orangey.css",
+		"/C/Users/Scott/Documents/Sublime Text Backups/C/wamp/www/portfolio/index-2013-05-16_11-19-17.htm",
+		"/C/Users/Scott/Documents/Sublime Text Backups/C/wamp/www/portfolio/index-2013-05-07_00-43-08.htm",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/Automatic Backups.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Automatic Backups.sublime-settings",
 		"/C/wamp/www/portfolio/stylesheets/color_greeny.css",
-		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/wamp/www/portfolio/images/rio_vista_chute-38.png",
 		"/C/wamp/www/portfolio/images/img_2592.jpg",
 		"/C/wamp/www/portfolio/images/froth.jpg",
 		"/C/wamp/www/portfolio/images/020.JPG",
 		"/C/wamp/www/portfolio/stylesheets/layout-gray.css",
-		"/C/wamp/www/portfolio/stylesheets/color_orangey.css",
 		"/C/wamp/www/portfolio/stylesheets/color_bluey.css",
 		"/C/wamp/www/portfolio/stylesheets/color_grayscaley.css",
 		"/C/wamp/www/portfolio/stylesheets/color_reddy.css",
-		"/C/wamp/www/portfolio/ftpsync.settings",
 		"/C/wamp/www/portfolio/scripts/layout.js",
 		"/C/wamp/www/portfolio/stylesheets/base.css",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/SublimeXiki/README.markdown",
@@ -448,6 +455,26 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"reddy",
+			"orangey",
+			"bluey",
+			"design",
+			"photos",
+			":hover,",
+			"borangey",
+			"orangey",
+			"greeny",
+			"orangey",
+			"dark",
+			"medium",
+			"orangey",
+			"light",
+			"medium",
+			"light",
+			"current",
+			"WordPress",
+			"•   ",
+			";",
 			"greeny",
 			"color_greeny",
 			"greeny",
@@ -555,27 +582,7 @@
 			".orangey ",
 			".blue",
 			"greeny",
-			"<div class=\"box ",
-			"v id=\"\" ",
-			"orangey",
-			"<div id=",
-			"#",
-			"37%",
-			"hsl(220, 82%, 37%)",
-			"com/\"><font style",
-			"light",
-			"medium",
-			"dark",
-			"medium",
-			"light",
-			"medium",
-			"pale",
-			"medium",
-			"light",
-			"pale",
-			"dark",
-			"light",
-			"dark"
+			"<div class=\"box "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -645,15 +652,15 @@
 					"file": "index.htm",
 					"settings":
 					{
-						"buffer_size": 2783,
+						"buffer_size": 3141,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2585,
-								2585
+								1590,
+								1590
 							]
 						],
 						"settings":
@@ -662,88 +669,59 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 546.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "smrf.htm",
-					"settings":
-					{
-						"buffer_size": 3189,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2035,
-								2035
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1057.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "smrf-about.htm",
-					"settings":
-					{
-						"buffer_size": 3572,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1358,
-								1358
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "stylesheets/layout.css",
+					"buffer": 1,
+					"file": "photography.htm",
 					"settings":
 					{
-						"buffer_size": 5372,
+						"buffer_size": 3039,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1058,
-								1058
+								2450,
+								2450
 							]
 						],
 						"settings":
 						{
-							"encoding_helper_confidence": 1.0,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 791.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "stylesheets/layout.css",
+					"settings":
+					{
+						"buffer_size": 5463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2026,
+								2026
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 420.0,
+						"translation.y": 882.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -755,79 +733,27 @@
 			"sheets":
 			[
 				{
-					"buffer": 4,
-					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/README.md",
+					"buffer": 3,
+					"file": "smrf-about.htm",
 					"settings":
 					{
-						"buffer_size": 3706,
+						"buffer_size": 3585,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3124,
+								3061
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/Automatic Backups.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 1546,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Automatic Backups.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2338.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -863,7 +789,7 @@
 		"cols":
 		[
 			0.0,
-			0.349957513452,
+			0.713713268032,
 			1.0
 		],
 		"rows":
@@ -887,6 +813,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"layou",
+				"stylesheets/layout.css"
+			],
 			[
 				"bas",
 				"stylesheets/base.css"
@@ -951,6 +881,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"get",
+				"/C/wamp/www/getoffyourself/GetOffYourself.sublime-project"
+			],
 			[
 				"smr",
 				"/C/wamp/www/SMRF/SMRF.sublime-project"

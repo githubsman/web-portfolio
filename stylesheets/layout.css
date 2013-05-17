@@ -72,7 +72,10 @@
         text-shadow:#FE6 0px -1px 0;
     }
 
-    .box a {
+    .box.pale a,
+    .box.light a,
+    .box.medium a,
+    .box.dark a {
         /* TODO: this needs to be more selective ; */
         text-decoration: none;
     }
@@ -103,7 +106,7 @@
 
     .box-image img {
         /*width: 960px;*/
-        width: 100%;
+        /*width: 100%;*/
         /*max-width: 960px;*/
         min-width:  840px;
         margin: 0px 0px 0px 0px;
@@ -113,6 +116,7 @@
         -webkit-border-radius:10px;
         opacity: 0.9;
         z-index: 2;
+        /*display: block;*/
         overflow: hidden;
     }
 

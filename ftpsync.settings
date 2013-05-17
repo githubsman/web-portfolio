@@ -16,11 +16,20 @@
     // your main connection
     "default": {
 
-        "host": "home.grandecom.net",
+        //"host": "home.grandecom.net",
+        //"port": 21,
+        //"username": "scottmorse",  // or null for anonymous login
+        //"password": "grande06",
+        //"path": "/public_html/",
+
+
+        "host": "themanthursday.com",
         "port": 21,
-        "username": "scottmorse",  // or null for anonymous login
-        "password": "grande06",
+        "username": "themant",  // or null for anonymous login
+        "password": "password2012",
         "path": "/public_html/",
+
+
 
         // encoding used for filenames and filepaths ("auto" or other charset name)
         //
