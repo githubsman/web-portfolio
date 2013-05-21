@@ -204,22 +204,3 @@
 		font-weight: normal;
 		font-style: normal;
     }
-
-        @font-face {
-        font-family: 'SortsMillGoudyRegular';
-        src: url('../fonts/goudystm/GoudyStM-webfont.eot');
-        src: url('../fonts/goudystm/GoudyStM-webfont.eot?#iefix') format('embedded-opentype'),
-             url('../fonts/goudystm/GoudyStM-webfont.woff') format('woff'),
-             url('../fonts/goudystm/GoudyStM-webfont.ttf') format('truetype'),
-             url('../fonts/goudystm/GoudyStM-webfont.svg#SortsMillGoudyRegular') format('svg');
-        font-weight: normal;
-        font-style: normal;
-    }
-
-    @font-face {
-        font-family: 'AlteHaasGrotesk';
-        src: url('../fonts/alte_haas_grotesk/AlteHaasGroteskRegular.ttf') format('truetype'),
-             url('../fonts/alte_haas_grotesk/AlteHaasGroteskBold.ttf') format('truetype');
-        font-weight: normal;
-        font-style: normal;
-    }
