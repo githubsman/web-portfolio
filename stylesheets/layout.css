@@ -106,7 +106,7 @@
 
     .box-image img {
         /*width: 960px;*/
-        /*width: 100%;*/
+        width: 100%;
         /*max-width: 960px;*/
         min-width:  840px;
         margin: 0px 0px 0px 0px;
@@ -145,6 +145,11 @@
 
     h4 {
         text-shadow: 2px 2px 0px hsl(250, 82%, 12%);
+    }
+
+    em {
+
+        font-weight: bold;
     }
 
     .collapsible {
