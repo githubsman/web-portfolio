@@ -35,7 +35,23 @@
 			"file": "stylesheets/layout.css",
 			"settings":
 			{
-				"buffer_size": 5503,
+				"buffer_size": 4606,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/layout-gray.css",
+			"settings":
+			{
+				"buffer_size": 4440,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "smrf.htm",
+			"settings":
+			{
+				"buffer_size": 3232,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +59,7 @@
 			"file": "web-design.htm",
 			"settings":
 			{
-				"buffer_size": 5048,
+				"buffer_size": 4690,
 				"line_ending": "Unix"
 			}
 		},
@@ -51,7 +67,7 @@
 			"file": "web-dev.htm",
 			"settings":
 			{
-				"buffer_size": 3615,
+				"buffer_size": 6491,
 				"line_ending": "Unix"
 			}
 		},
@@ -64,28 +80,28 @@
 			}
 		},
 		{
-			"file": "/C/wamp/www/spapartscenter/test/A0_logon_basic.php",
+			"file": "employment.htm",
 			"settings":
 			{
-				"buffer_size": 952,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/wamp/www/spapartscenter/test/test_setvars.php",
-			"settings":
-			{
-				"buffer_size": 1173,
-				"line_ending": "Windows"
+				"buffer_size": 2428,
+				"line_ending": "Unix"
 			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 127.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
 			[
 				"orimoor",
 				"Origami: Move File to Pane on the Right"
@@ -93,10 +109,6 @@
 			[
 				"orr",
 				"Origami: Create Pane on the Right"
-			],
-			[
-				"todo",
-				"Show TODOs: Project and open files"
 			],
 			[
 				"subm",
@@ -347,7 +359,7 @@
 				"Snippet: slideToggle"
 			]
 		],
-		"width": 440.0
+		"width": 528.0
 	},
 	"console":
 	{
@@ -364,8 +376,11 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/wamp/www/portfolio/smrf.htm",
+		"/C/wamp/www/portfolio/stylesheets/skeleton.css",
+		"/C/wamp/www/spapartscenter/test/A0_logon_basic.php",
+		"/C/wamp/www/spapartscenter/test/test_setvars.php",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/wamp/www/portfolio/web-dev.htm",
 		"/C/wamp/www/portfolio/stylesheets/layout.css",
 		"/C/wamp/www/portfolio/web-design.htm",
@@ -394,7 +409,6 @@
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/SublimeXiki/README.markdown",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Line Completion/README.md",
 		"/C/wamp/www/getoffyourself/index.htm",
-		"/C/wamp/www/portfolio/stylesheets/skeleton.css",
 		"/C/wamp/www/SMRF/stylesheets/skeleton.css",
 		"/C/wamp/www/portfolio/fonts/alegreya/stylesheet.css",
 		"/C/wamp/www/portfolio/portfolio.sublime-project",
@@ -476,7 +490,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 90.0,
 		"where_history":
 		[
 			"<open folders>"
@@ -487,6 +501,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Grotesk",
+			"SortsMillGoudyRegular",
+			"em",
+			"Note",
+			"Skeleton",
+			"out",
+			"<li>\n                        Manufacter's PN and description, after-market supplier's PN and description, close and almost-close substitutes, sub-parts, categories, specific traits by category, and a whole bunch of images and supporting documents like manuals and wiring schematics.\n                        \n                    </li>",
+			"twelve",
+			"thirteen",
+			"alpha",
+			"and",
+			"<br />",
+			"li",
+			"white",
 			"bluey",
 			". ",
 			"reddy",
@@ -600,21 +628,7 @@
 			"Prociono",
 			"Signika",
 			"h6",
-			"            <div class=\"four columns alpha collapsible\">\n",
-			"=\"four columns ",
-			"##-#### -->\n        </div>\n",
-			"div class=\"four columns\">",
-			"h2",
-			"AlegreyaSC-Reg",
-			"Prociono",
-			"AlegreyaSCRegular",
-			"iono_",
-			"bluey medium",
-			"box greeny medium",
-			" .",
-			"orangey",
-			".orangey ",
-			".blue"
+			"            <div class=\"four columns alpha collapsible\">\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -676,7 +690,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -691,8 +705,8 @@
 						"selection":
 						[
 							[
-								1590,
-								1590
+								2022,
+								2022
 							]
 						],
 						"settings":
@@ -701,7 +715,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 168.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -718,8 +732,8 @@
 						"selection":
 						[
 							[
-								2730,
-								2730
+								3002,
+								3002
 							]
 						],
 						"settings":
@@ -727,7 +741,7 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1708.0,
+						"translation.y": 980.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -737,15 +751,15 @@
 					"file": "stylesheets/layout.css",
 					"settings":
 					{
-						"buffer_size": 5503,
+						"buffer_size": 4606,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2889,
-								2889
+								4606,
+								4606
 							]
 						],
 						"settings":
@@ -753,59 +767,51 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1554.0,
+						"translation.y": 2502.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "web-design.htm",
+					"file": "stylesheets/layout-gray.css",
 					"settings":
 					{
-						"buffer_size": 5048,
+						"buffer_size": 4440,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								644,
-								644
-							],
-							[
-								1466,
-								1466
-							],
-							[
-								1663,
-								1663
+								3042,
+								3042
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2023.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "web-dev.htm",
+					"file": "smrf.htm",
 					"settings":
 					{
-						"buffer_size": 3615,
+						"buffer_size": 3232,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3393,
-								3393
+								2054,
+								2054
 							]
 						],
 						"settings":
@@ -813,19 +819,65 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 462.0,
+						"translation.y": 280.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 2,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 5,
+					"file": "web-design.htm",
+					"settings":
+					{
+						"buffer_size": 4690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1302,
+								1302
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 294.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "web-dev.htm",
+					"settings":
+					{
+						"buffer_size": 6491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4739,
+								4739
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1267.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
 					"file": "smrf-about.htm",
 					"settings":
 					{
@@ -836,8 +888,8 @@
 						"selection":
 						[
 							[
-								3124,
-								3061
+								2719,
+								2719
 							]
 						],
 						"settings":
@@ -845,59 +897,33 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2478.0,
+						"translation.y": 868.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "/C/wamp/www/spapartscenter/test/A0_logon_basic.php",
+					"buffer": 8,
+					"file": "employment.htm",
 					"settings":
 					{
-						"buffer_size": 952,
+						"buffer_size": 2428,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								699,
+								699
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/C/wamp/www/spapartscenter/test/test_setvars.php",
-					"settings":
-					{
-						"buffer_size": 1173,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 210.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -922,18 +948,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.30320569902,
 			1.0
 		],
 		"rows":
