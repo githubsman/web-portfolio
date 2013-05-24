@@ -1,131 +1,55 @@
 /* #Site Styles
 =========================== */
 
-    .container {
-        margin-top: 6px;
-
-        -moz-border-radius: 12px;
-        -webkit-border-radius: 12px;
-        border-radius: 12px;
-        z-index: 1;
-    }
-
-    body.dark {
+    body {
         background-color: hsl(200, 20%, 91%);
     }
 
-    body.light {
-        background-color: hsl(216, 70%, 93%);
-    }
-
-    .container.dark {
-        /*background: transparent;*/
+    .container {
         background-color: hsl(200, 60%, 21%);
-    }
-    .container.light {
-        /*background: transparent;*/
-        background-color: hsl(200, 60%, 21%);
-    }
-
-    div {
-
-        /*outline: 1px solid black;*/
+        margin-top: 4px;
+        -moz-border-radius: 11px;
+        -webkit-border-radius: 11px;
+        border-radius: 11px;
+        z-index: 1;
     }
 
-    #nav {
-        margin-top: 10px;
-    }
+    /*  div { outline: 1px solid black; FOR DEV }*/
 
     .box {
-        background-color: hsl(216, 70%, 97%);
         margin-bottom: 3px;
         -moz-border-radius: 6px;
         -webkit-border-radius: 6px;
         border-radius: 6px;
-        padding: 4px 2px 3px 6px;
-        /*opacity: 0.95;*/
-        overflow: hidden;
-        /*margin-left: 6px;*/
-        /*margin-right: 6px;*/
-    }
-
-    .box.pale,
-    .box.light,
-    .box.medium,
-    .box.dark {
         border: solid hsl(200, 82%, 27%) 1px;
-        text-shadow:#FE6 0px -1px 0;
-    }
-
-    .box.pale a,
-    .box.light a,
-    .box.medium a,
-    .box.dark a {
-        /* TODO: this needs to be more selective ; */
-        text-decoration: none;
-    }
-
-    .box.pale:hover,
-    .box.light:hover,
-    .box.medium:hover,
-    .box.dark:hover {
-        position: relative;
-        top: -1px;
-    }
-
-    /* TODO: work out nested image CSS rules */
-    #backdrop-graphic {
-        width: 100%;
-        position:absolute;
-        top:0;
-        z-index:-1;
-    }
-
-
-    .box-image {
-        /*margin: 0px -5px 0px -5px;*/
-        /*padding: 0px;*/
-        /*background-color: black;*/
+        padding: 4px 2px 3px 6px;
         overflow: hidden;
-    }
+        /*opacity: 0.95;*/
 
-    .box-image img {
-        /*width: 960px;*/
-        width: 100%;
-        /*max-width: 960px;*/
-        min-width:  840px;
-        margin: 0px 0px 0px 0px;
-        padding: 0px 0px 0px 0px;
-        border-radius:10px;
-        -moz-border-radius:10px;
-        -webkit-border-radius:10px;
-        opacity: 0.9;
-        z-index: 2;
-        /*display: block;*/
-        overflow: hidden;
+        /*'generic' box, no color theme */
+        background-color: hsl(216, 70%, 97%);
+
     }
 
     h1 {
-        font-family: 'AlegreyaSCRegular';
+        font-family: 'AlegreyaSCRegular', Georgia;
     }
 
     h2, h3, h4, h5, h6  {
-        font-family: 'Signika';
+        font-family: 'Signika', 'trebuchet MS';
     }
 
     h1, h4 {
         padding:5px 4px 0px 4px;
         color:white;
-        /*text-shadow: 2px 2px 0px hsl(250, 82%, 12%);*/
-
         letter-spacing: 2px;
+        /*text-shadow: 2px 2px 0px hsl(250, 82%, 12%);*/
      /*   margin-top: 8px;
         margin-bottom: 0;*/
     }
 
     h1 {
         text-shadow: 1px 1px 0px black, 1px 2px 0px hsl(43, 96%, 40%);
-
     }
 
     h4 {
@@ -133,7 +57,6 @@
     }
 
     em {
-
         font-weight: bold;
     }
 
@@ -141,38 +64,66 @@
         height: 2px;
     }
 
-    #header {
+/*    #header {
         text-align:center;
-    }
+    }*/
 
+/* #Nav region
+=========================== */
     #nav {
+        margin-top: 12px;
         text-align:center;
     }
 
+    #nav .box {
 
-    /*    @media only screen and (min-width: 768px) and (max-width: 959px) {
+        text-shadow:#FE6 0px -1px 0;
+    }
 
-        .collapsible {
-            height: 10px;
-        }
+    #nav .box a {
+        /*big fat push buttons -- no underline*/
+        text-decoration: none;
+    }
 
+    #nav .box:hover {
+        position: relative;
+        top: -1px;
     }
 
 
-/* #needs organizing
+
+
+/* #Background images
 =========================== */
 
-    #color_5 * h5 {
-        color: black;
+    #backdrop-graphic {
+        width: 100%;
+        position:absolute;
+        top:0;
+        z-index:-1;
     }
-    #color_1 .box {
-        border: solid hsl(250, 32%, 58%) 2px;
+
+    .box-image {
+        /*background-color: black;*/
+        /*margin: 0px -5px 0px -5px;*/
+        padding: 0px;
+        overflow: hidden;
     }
-    #color_2 .box {
-        border: solid hsl(250, 32%, 58%) 2px;
-    }
-    #color_5 .box {
-        border: solid hsl(100, 40%, 30%) 2px;
+
+    .box-image img {
+        width: 100%;
+        min-width:  840px;
+        /*width: 960px;*/
+        /*max-width: 960px;*/
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        border-radius:10px;
+        -moz-border-radius:10px;
+        -webkit-border-radius:10px;
+        opacity: 0.9;
+        z-index: 2;
+        overflow: hidden;
+        /*display: block;*/
     }
 
 /* #Font-Face
@@ -195,25 +146,6 @@
              url('../fonts/signika/Signika-Regular-webfont.woff') format('woff'),
              url('../fonts/signika/Signika-Regular-webfont.ttf') format('truetype'),
              url('../fonts/signika/Signika-Regular-webfont.svg#Signika/Regular') format('svg');
-        font-weight: normal;
-        font-style: normal;
-    }
-
-        @font-face {
-        font-family: 'SortsMillGoudyRegular';
-        src: url('../fonts/goudystm/GoudyStM-webfont.eot');
-        src: url('../fonts/goudystm/GoudyStM-webfont.eot?#iefix') format('embedded-opentype'),
-             url('../fonts/goudystm/GoudyStM-webfont.woff') format('woff'),
-             url('../fonts/goudystm/GoudyStM-webfont.ttf') format('truetype'),
-             url('../fonts/goudystm/GoudyStM-webfont.svg#SortsMillGoudyRegular') format('svg');
-        font-weight: normal;
-        font-style: normal;
-    }
-
-    @font-face {
-        font-family: 'AlteHaasGrotesk';
-        src: url('../fonts/alte_haas_grotesk/AlteHaasGroteskRegular.ttf') format('truetype'),
-             url('../fonts/alte_haas_grotesk/AlteHaasGroteskBold.ttf') format('truetype');
         font-weight: normal;
         font-style: normal;
     }
