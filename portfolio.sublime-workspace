@@ -16,10 +16,10 @@
 	"buffers":
 	[
 		{
-			"file": "index.htm",
+			"file": "stylesheets/layout.css",
 			"settings":
 			{
-				"buffer_size": 3141,
+				"buffer_size": 3635,
 				"line_ending": "Unix"
 			}
 		},
@@ -27,31 +27,7 @@
 			"file": "photography.htm",
 			"settings":
 			{
-				"buffer_size": 3337,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "stylesheets/layout.css",
-			"settings":
-			{
-				"buffer_size": 4606,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "stylesheets/layout-gray.css",
-			"settings":
-			{
-				"buffer_size": 4440,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "smrf.htm",
-			"settings":
-			{
-				"buffer_size": 3232,
+				"buffer_size": 3287,
 				"line_ending": "Unix"
 			}
 		},
@@ -59,23 +35,7 @@
 			"file": "web-design.htm",
 			"settings":
 			{
-				"buffer_size": 4690,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "web-dev.htm",
-			"settings":
-			{
-				"buffer_size": 6491,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "smrf-about.htm",
-			"settings":
-			{
-				"buffer_size": 3585,
+				"buffer_size": 4489,
 				"line_ending": "Unix"
 			}
 		},
@@ -83,7 +43,79 @@
 			"file": "employment.htm",
 			"settings":
 			{
-				"buffer_size": 2428,
+				"buffer_size": 2709,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "coaching.htm",
+			"settings":
+			{
+				"buffer_size": 2352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "portfolio.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 21464,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "smrf-about.htm",
+			"settings":
+			{
+				"buffer_size": 3591,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web-portfolio.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 23162,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/color_yellowey.css",
+			"settings":
+			{
+				"buffer_size": 1770,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/color_orangey.css",
+			"settings":
+			{
+				"buffer_size": 1682,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/color_reddy.css",
+			"settings":
+			{
+				"buffer_size": 1723,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web-dev.htm",
+			"settings":
+			{
+				"buffer_size": 6344,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.htm",
+			"settings":
+			{
+				"buffer_size": 3264,
 				"line_ending": "Unix"
 			}
 		}
@@ -94,6 +126,14 @@
 		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"dif",
+				"Sublimerge: View Diff"
+			],
+			[
+				"diff",
+				"Sublimerge: View Diff"
+			],
 			[
 				"pa",
 				"Package Control: Install Package"
@@ -116,10 +156,6 @@
 			],
 			[
 				"merge",
-				"Sublimerge: View Diff"
-			],
-			[
-				"diff",
 				"Sublimerge: View Diff"
 			],
 			[
@@ -359,7 +395,7 @@
 				"Snippet: slideToggle"
 			]
 		],
-		"width": 528.0
+		"width": 441.0
 	},
 	"console":
 	{
@@ -376,18 +412,27 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/portfolio/employment.htm",
+		"/C/wamp/www/portfolio/zzzweb-design.htm",
+		"/C/wamp/www/portfolio/zzzphotography.htm",
+		"/C/wamp/www/portfolio/photography.htm",
+		"/C/wamp/www/portfolio/web-design.htm",
+		"/C/wamp/www/portfolio/stylesheets/lzzayout.css",
+		"/C/wamp/www/portfolio/zzzindex.htm",
+		"/C/wamp/www/portfolio/web-dev.htm",
+		"/C/wamp/www/portfolio/zzzweb-dev.htm",
+		"/C/wamp/www/portfolio/index.htm",
+		"/C/wamp/www/portfolio/stylesheets/layout.css",
+		"/C/wamp/www/portfolio/stylesheets/zzzzzzlayout.css",
 		"/C/wamp/www/portfolio/smrf.htm",
+		"/C/wamp/www/portfolio/stylesheets/layout-gray.css",
+		"/C/wamp/www/portfolio/smrf-about.htm",
+		"/C/wamp/www/portfolio/employment (3).htm",
 		"/C/wamp/www/portfolio/stylesheets/skeleton.css",
 		"/C/wamp/www/spapartscenter/test/A0_logon_basic.php",
 		"/C/wamp/www/spapartscenter/test/test_setvars.php",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/C/wamp/www/portfolio/web-dev.htm",
-		"/C/wamp/www/portfolio/stylesheets/layout.css",
-		"/C/wamp/www/portfolio/web-design.htm",
-		"/C/wamp/www/portfolio/employment.htm",
-		"/C/wamp/www/portfolio/smrf-about.htm",
 		"/C/wamp/www/portfolio/coaching.htm",
-		"/C/wamp/www/portfolio/photography.htm",
 		"/C/wamp/www/portfolio/ftpsync.settings",
 		"/C/wamp/www/portfolio/stylesheets/color_orangey.css",
 		"/C/Users/Scott/Documents/Sublime Text Backups/C/wamp/www/portfolio/index-2013-05-16_11-19-17.htm",
@@ -400,7 +445,6 @@
 		"/C/wamp/www/portfolio/images/img_2592.jpg",
 		"/C/wamp/www/portfolio/images/froth.jpg",
 		"/C/wamp/www/portfolio/images/020.JPG",
-		"/C/wamp/www/portfolio/stylesheets/layout-gray.css",
 		"/C/wamp/www/portfolio/stylesheets/color_bluey.css",
 		"/C/wamp/www/portfolio/stylesheets/color_grayscaley.css",
 		"/C/wamp/www/portfolio/stylesheets/color_reddy.css",
@@ -501,6 +545,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"yellowey",
+			"(60",
+			"reddy",
+			"greeny",
+			"bluey",
+			"h4",
+			"_BLANK",
+			"png",
+			".box",
+			"12px",
 			"Grotesk",
 			"SortsMillGoudyRegular",
 			"em",
@@ -618,17 +672,7 @@
 			"bluey",
 			"greeny",
 			"light",
-			"medium",
-			"pale",
-			"Photography",
-			"style",
-			"bottom",
-			"AlegreyaSCRegular",
-			" ",
-			"Prociono",
-			"Signika",
-			"h6",
-			"            <div class=\"four columns alpha collapsible\">\n"
+			"medium"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -636,6 +680,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"yellowey",
 			"nav",
 			" - `\\2`    \\1",
 			"Ctrl",
@@ -690,32 +735,31 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 10,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.htm",
+					"file": "stylesheets/layout.css",
 					"settings":
 					{
-						"buffer_size": 3141,
+						"buffer_size": 3635,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2022,
-								2022
+								1768,
+								1768
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"word_wrap": true
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 168.0,
+						"translation.y": 798.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -725,15 +769,15 @@
 					"file": "photography.htm",
 					"settings":
 					{
-						"buffer_size": 3337,
+						"buffer_size": 3287,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3002,
-								3002
+								1640,
+								1640
 							]
 						],
 						"settings":
@@ -741,51 +785,181 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 980.0,
+						"translation.y": 42.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "stylesheets/layout.css",
+					"file": "web-design.htm",
 					"settings":
 					{
-						"buffer_size": 4606,
+						"buffer_size": 4489,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4606,
-								4606
+								2048,
+								2048
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2502.0,
+						"translation.y": 462.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "stylesheets/layout-gray.css",
+					"file": "employment.htm",
 					"settings":
 					{
-						"buffer_size": 4440,
+						"buffer_size": 2709,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3042,
-								3042
+								1242,
+								1242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 305.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "coaching.htm",
+					"settings":
+					{
+						"buffer_size": 2352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "portfolio.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 21464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "smrf-about.htm",
+					"settings":
+					{
+						"buffer_size": 3591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "web-portfolio.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 23162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "stylesheets/color_yellowey.css",
+					"settings":
+					{
+						"buffer_size": 1770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								526,
+								526
 							]
 						],
 						"settings":
@@ -793,77 +967,83 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2023.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "smrf.htm",
+					"buffer": 9,
+					"file": "stylesheets/color_orangey.css",
 					"settings":
 					{
-						"buffer_size": 3232,
+						"buffer_size": 1682,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2054,
-								2054
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 280.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "web-design.htm",
+					"buffer": 10,
+					"file": "stylesheets/color_reddy.css",
 					"settings":
 					{
-						"buffer_size": 4690,
+						"buffer_size": 1723,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1302,
-								1302
+								167,
+								162
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 294.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
 				{
-					"buffer": 6,
+					"buffer": 11,
 					"file": "web-dev.htm",
 					"settings":
 					{
-						"buffer_size": 6491,
+						"buffer_size": 6344,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4739,
-								4739
+								1784,
+								1784
 							]
 						],
 						"settings":
@@ -871,25 +1051,25 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1267.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "smrf-about.htm",
+					"buffer": 12,
+					"file": "index.htm",
 					"settings":
 					{
-						"buffer_size": 3585,
+						"buffer_size": 3264,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2719,
-								2719
+								836,
+								836
 							]
 						],
 						"settings":
@@ -897,33 +1077,7 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 868.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "employment.htm",
-					"settings":
-					{
-						"buffer_size": 2428,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								699,
-								699
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 210.0,
+						"translation.y": 14.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -948,11 +1102,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.596085409253,
 			1.0
 		],
 		"rows":

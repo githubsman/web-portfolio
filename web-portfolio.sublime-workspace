@@ -281,7 +281,7 @@
 	"file_history":
 	[
 		"/var/www/web-portfolio/stylesheets/color_greeny.css",
-		"/var/www/web-portfolio/stylesheets/color_reddy.css",
+		"/var/www/web-portfolio/stylesheets/color_yellowey.css",
 		"/var/www/getoffyourself/scripts/layout.js",
 		"/var/www/web-portfolio/scripts/layout.js",
 		"/var/www/getoffyourself/index.htm",
@@ -289,7 +289,7 @@
 		"/C/wamp/www/portfolio/stylesheets/color_orangey.css",
 		"/C/wamp/www/getoffyourself/index.htm",
 		"/C/wamp/www/portfolio/stylesheets/color_greeny.css",
-		"/C/wamp/www/portfolio/stylesheets/color_reddy.css",
+		"/C/wamp/www/portfolio/stylesheets/color_yellowey.css",
 		"/C/wamp/www/portfolio/stylesheets/skeleton.css",
 		"/C/wamp/www/portfolio/stylesheets/base.css",
 		"/C/wamp/www/SMRF/stylesheets/skeleton.css",
@@ -392,7 +392,7 @@
 			"        border: solid hsl(250, 82%, 18%) 3px;\n",
 			"\n        ",
 			", ",
-			".reddy",
+			".yellowey",
 			"greeny",
 			"        border: solid hsl(220, 82%, 27%) 3px;\n",
 			"border: solid hsl(220, 82%, 37%) 3px;",
