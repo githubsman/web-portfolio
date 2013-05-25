@@ -1,12 +1,9 @@
 /* #Site Styles
 =========================== */
 
-    body {
-        background-color: hsl(200, 20%, 91%);
-    }
+
 
     .container {
-        background-color: hsl(200, 60%, 21%);
         margin-top: 4px;
         -moz-border-radius: 11px;
         -webkit-border-radius: 11px;
@@ -21,8 +18,8 @@
         -moz-border-radius: 6px;
         -webkit-border-radius: 6px;
         border-radius: 6px;
-        border: solid hsl(200, 82%, 27%) 1px;
-        padding: 4px 2px 3px 6px;
+        border: solid hsl(200, 82%, 21%) 2px;
+        padding: 0px 2px 0px 6px;
         overflow: hidden;
         /*opacity: 0.95;*/
 
@@ -75,9 +72,9 @@
         text-align:center;
     }
 
-    #nav .box {
-
-        text-shadow:#FE6 0px -1px 0;
+    #nav .box h5 {
+        color:   white;
+        text-shadow:navy 0px 1px 1px;
     }
 
     #nav .box a {
