@@ -1,8 +1,6 @@
 /* #Site Styles
 =========================== */
 
-
-
     .container {
         margin-top: 4px;
         -moz-border-radius: 11px;
@@ -19,19 +17,12 @@
         -moz-border-radius: 6px;
         -webkit-border-radius: 6px;
         border-radius: 6px;
-        border: solid hsl(200, 82%, 21%) 2px;
+
         /*padding: 0px 2px 0px 6px;*/
         padding: 10px 6px 10px 8px;
         overflow: hidden;
         /*opacity: 0.95;*/
-
-        /*'generic' box, no color theme */
-        /*background-color: hsl(216, 70%, 97%);*/
-        background: -webkit-gradient(linear, left top, left bottom, from(hsl(216, 65%, 97%)), to(hsl(216, 98%, 95%))); background: -moz-linear-gradient(top, hsl(216, 65%, 97%),  hsl(216, 98%, 95%)); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='hsl(216, 65%, 97%)', endColorstr='hsl(216, 98%, 95%)');  }
-
     }
-
-
 
     h1 {
         font-family: 'AlegreyaSCRegular', Georgia;
@@ -89,7 +80,7 @@
         font-size:   1.2em;
     }
 
-/*    #nav .box h5 {
+    /*    #nav .box h5 {
         text-shadow:navy 0px 1px 1px;
     }*/
 
