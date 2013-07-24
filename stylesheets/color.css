@@ -20,7 +20,7 @@
     }
     .vapor {
         color: black;
-        border-color: gray;
+        border-color: hsl(210, 50%, 40%);
     }
 
     .deep *, .dark *, .medium *, .light *, .pale * {

@@ -33,6 +33,11 @@
         font-size: 1.2rem;
     }
 
+    p {
+
+        margin: 0px 0px 0px 0px;
+    }
+
     #masthead h1, h4 {
         padding:5px 4px 0px 4px;
         letter-spacing: 2px;
