@@ -19,23 +19,15 @@
 			"file": "stylesheets/layout.css",
 			"settings":
 			{
-				"buffer_size": 4162,
+				"buffer_size": 3698,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.htm",
+			"file": "stylesheets/color-gradient.css",
 			"settings":
 			{
-				"buffer_size": 8076,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "ms-access.htm",
-			"settings":
-			{
-				"buffer_size": 6997,
+				"buffer_size": 13204,
 				"line_ending": "Unix"
 			}
 		},
@@ -59,7 +51,7 @@
 			"file": "stylesheets/color.css",
 			"settings":
 			{
-				"buffer_size": 11095,
+				"buffer_size": 3150,
 				"line_ending": "Unix"
 			}
 		}
@@ -372,6 +364,8 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/portfolio/ms-access.htm",
+		"/C/wamp/www/portfolio/index.htm",
 		"/C/wamp/www/portfolio/employment.htm",
 		"/C/wamp/www/portfolio/photography.htm",
 		"/C/wamp/www/portfolio/smrf.htm",
@@ -382,7 +376,6 @@
 		"/C/wamp/www/portfolio/web-design.htm",
 		"/C/wamp/www/portfolio/web-dev.htm",
 		"/C/wamp/www/portfolio/stylesheets/layout.css",
-		"/C/wamp/www/portfolio/ms-access.htm",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Speech/README.markdown",
 		"/C/wamp/www/portfolio/coaching.htm",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
@@ -402,7 +395,6 @@
 		"/C/wamp/www/portfolio/stylesheets/lzzayout.css",
 		"/C/wamp/www/portfolio/zzzindex.htm",
 		"/C/wamp/www/portfolio/zzzweb-dev.htm",
-		"/C/wamp/www/portfolio/index.htm",
 		"/C/wamp/www/portfolio/stylesheets/zzzzzzlayout.css",
 		"/C/wamp/www/portfolio/stylesheets/layout-gray.css",
 		"/C/wamp/www/portfolio/employment (3).htm",
@@ -520,6 +512,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"CODE",
+			": }",
+			"\\{backgro.*top,\\s(hsl\\(.*\\)),\\s\\s.*filt.*",
 			"c_purple1",
 			"5",
 			"9",
@@ -644,10 +639,7 @@
 			"c_purple1",
 			"blueytoo",
 			"background",
-			"slatey",
-			".blueytoo",
-			",",
-			"bluey"
+			"slatey"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -655,11 +647,14 @@
 		"regex": false,
 		"replace_history":
 		[
+			"background:",
+			"; }",
+			"{ CODE \\1: }",
 			"  /*.c_",
 			"green",
 			"bronze_1",
 			"\\1",
-			"<h15>\\1</h15>",
+			"\\1",
 			"c_orange1",
 			"c_purple1",
 			"c_bronze1",
@@ -756,7 +751,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -764,15 +759,15 @@
 					"file": "stylesheets/layout.css",
 					"settings":
 					{
-						"buffer_size": 4162,
+						"buffer_size": 3698,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								234,
-								234
+								1536,
+								1536
 							]
 						],
 						"settings":
@@ -780,65 +775,39 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 588.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "index.htm",
+					"file": "stylesheets/color-gradient.css",
 					"settings":
 					{
-						"buffer_size": 8076,
+						"buffer_size": 13204,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2177,
-								2179
+								2612,
+								2612
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 98.0,
+						"translation.y": 630.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "ms-access.htm",
-					"settings":
-					{
-						"buffer_size": 6997,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1911,
-								1911
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 291.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "web-dev.htm",
 					"settings":
 					{
@@ -849,8 +818,8 @@
 						"selection":
 						[
 							[
-								1965,
-								1949
+								609,
+								609
 							]
 						],
 						"settings":
@@ -858,13 +827,13 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 295.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "web-design.htm",
 					"settings":
 					{
@@ -890,19 +859,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "stylesheets/color.css",
 					"settings":
 					{
-						"buffer_size": 11095,
+						"buffer_size": 3150,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								345,
-								345
+								912,
+								912
 							]
 						],
 						"settings":
